@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [AMBIT-panel.PcbDoc]
+   Generated File[AMBIT_Panel_0.1b.TXT]
+   Generated File[AMBIT_Panel_0.1b.LDP]
+   Generated File[AMBIT_Panel_0.1b.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:50:17 PM On 8/18/2015
