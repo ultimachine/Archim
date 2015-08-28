@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: AMBIT.PcbDoc   8/28/2015  2:34:21 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : AMBIT_0.1b.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          1258             122.85 Inch (3120.27 mm)
+T2        20mil (0.508mm)          Round          1                0.00 Inch (0.00 mm)
+T3        22mil (0.5588mm)         Round          2                3.30 Inch (83.84 mm)
+T4        24mil (0.6096mm)         Round          7                1.73 Inch (44.00 mm)
+T5        30mil (0.762mm)          Round          2                0.08 Inch (2.03 mm)
+T6        35.4mil (0.89916mm)      Round          44               4.61 Inch (117.07 mm)
+T7        38mil (0.9652mm)         Round          4                0.26 Inch (6.53 mm)
+T8        40mil (1.016mm)          Round          62               13.12 Inch (333.16 mm)
+T9        55mil (1.397mm)          Round          16               8.04 Inch (204.28 mm)
+T10       59mil (1.4986mm)         Round          2                0.28 Inch (7.01 mm)
+T11       63mil (1.6002mm)         Round          12               3.54 Inch (90.01 mm)
+T12       87mil (2.2098mm)         Round          2                0.47 Inch (12.02 mm)
+T13       118.1mil (2.99974mm)     Round          4         NPTH   12.94 Inch (328.64 mm)
+T14       129.9mil (3.29946mm)     Round          3         NPTH   3.97 Inch (100.94 mm)
+---------------------------------------------------------------------------
+Totals                                            1419             175.19 Inch (4449.80 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:07

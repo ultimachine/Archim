@@ -223,6 +223,114 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_0.1b.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM30
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM31
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_0.1b.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_0.1b.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=ProjectOutputsForAMBIT\Pick Place\AMBIT_0.1b.txt
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=ProjectOutputsForAMBIT\BOM\AMBIT_0.1b.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for AMBIT\Design Rule Check - AMBIT.html
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for AMBIT\Pick Place for AMBIT.txt
+DItemRevisionGUID=
+
 [Parameter1]
 Name=projectDesigner
 Value=UltiMachine
@@ -601,24 +709,26 @@ PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother DCP-7045N
+TargetPrinter=KONICA MINOLTA C360SeriesPCL
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup5]
 Name=Fabrication Outputs
