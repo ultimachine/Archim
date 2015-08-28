@@ -1,0 +1,6 @@
+Change Component Comment : Designator=C17 Old Comment=10uF 50V New Comment=TBD
+Change Component Comment : Designator=C36 Old Comment=10uF 50V New Comment=TBD
+Change Component Comment : Designator=C92 Old Comment=10uF 50V New Comment=TBD
+Change Component Comment : Designator=U10 Old Comment=ATML-ATSAM3X-LQFP-144 New Comment=ATSAM3X8EA-AU
+Change Component Description : Designator=U10 Old Description= New Description=Atmel
+Change Component Library : Designator=U10 Old Library=ZMBo Schematic Library.SchLib New Library=
