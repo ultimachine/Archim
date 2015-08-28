@@ -319,18 +319,6 @@ DItemRevisionGUID=
 DocumentPath=ProjectOutputsForAMBIT\Pick Place\AMBIT_0.1b.txt
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=ProjectOutputsForAMBIT\BOM\AMBIT_0.1b.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for AMBIT\Design Rule Check - AMBIT.html
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for AMBIT\Pick Place for AMBIT.txt
-DItemRevisionGUID=
-
 [Parameter1]
 Name=projectDesigner
 Value=UltiMachine
