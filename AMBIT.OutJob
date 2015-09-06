@@ -228,6 +228,34 @@ Configuration9_Name6=SortOrder
 Configuration9_Item6=Comment=Up
 Configuration9_Name7=VisibleOrder
 Configuration9_Item7=Comment=127|Description=127|Designator=280|Footprint=49|LibRef=100
+OutputType10=BOM_PartType
+OutputName10=FeederBOM
+OutputCategory10=Report
+OutputDocumentPath10=
+OutputVariantName10=
+OutputEnabled10=1
+OutputEnabled10_OutputMedium1=0
+OutputEnabled10_OutputMedium2=0
+OutputEnabled10_OutputMedium3=6
+OutputEnabled10_OutputMedium4=0
+OutputEnabled10_OutputMedium5=0
+OutputEnabled10_OutputMedium6=0
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration10_Name1=ColumnNameFormat
+Configuration10_Item1=CaptionAsName
+Configuration10_Name2=Filter
+Configuration10_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration10_Name3=General
+Configuration10_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=Component Default Template.XLT|BatchMode=0|FormWidth=950|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration10_Name4=GroupOrder
+Configuration10_Item4=LibRef=True|Comment=True|Footprint=True
+Configuration10_Name5=OutputConfigurationParameter1
+Configuration10_Item5=??
+Configuration10_Name6=SortOrder
+Configuration10_Item6=Comment=Up
+Configuration10_Name7=VisibleOrder
+Configuration10_Item7=LibRef=85|Comment=108|Description=108|Designator=160|Footprint=147|Quantity=58
 
 [PublishSettings]
 OutputFilePath2=C:\Users\johnny\Documents\GitHub\ambit\New folder\PCB-Rev2\ProjectOutputsForAMBIT\ProjectTitle_projectVersion_VariantName_VarRevNo.PDF
