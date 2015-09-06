@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R9 Old DesignItemId=R0603TBD New DesignItemId=ERJ-3EKF1002V
+Change Component DesignItemId : Designator=R11 Old DesignItemId=R0603TBD New DesignItemId=ERJ-3EKF1002V
+Change Component Comment : Designator=R9 Old Comment=R0603TBD New Comment=10K
+Change Component Comment : Designator=R11 Old Comment=R0603TBD New Comment=10K
+Change Component Description : Designator=R9 Old Description=Resistor New Description=RES 0603 10K 100mW 1%
+Change Component Description : Designator=R11 Old Description=Resistor New Description=RES 0603 10K 100mW 1%
