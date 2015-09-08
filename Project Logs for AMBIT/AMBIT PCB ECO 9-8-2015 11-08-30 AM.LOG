@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=FET_PWM3 Pin=R22-2
+Removed Pin From Net: NetName=FET_PWM4 Pin=R25-2
+Removed Pin From Net: NetName=FET_PWM5 Pin=R28-2
+Removed Pin From Net: NetName=BED_PWM Pin=R36-2
+Removed Pin From Net: NetName=FET_PWM3 Pin=U4-2
+Removed Pin From Net: NetName=FET_PWM4 Pin=U5-2
+Removed Pin From Net: NetName=FET_PWM5 Pin=U6-2
+Removed Pin From Net: NetName=BED_PWM Pin=U7-2
+Added Component: Designator=U17(QFN50P350X350X100_RGY_S-PVQFN-N14)
+Added Pin To Net: NetName=GND Pin=U17-1
+Added Pin To Net: NetName=FET_PWM3 Pin=U17-2
+Added Pin To Net: NetName=GND Pin=U17-4
+Added Pin To Net: NetName=FET_PWM4 Pin=U17-5
+Added Pin To Net: NetName=GND Pin=U17-7
+Added Pin To Net: NetName=FET_PWM5 Pin=U17-9
+Added Pin To Net: NetName=GND Pin=U17-10
+Added Pin To Net: NetName=BED_PWM Pin=U17-12
+Added Pin To Net: NetName=GND Pin=U17-13
+Added Pin To Net: NetName=+5VCC Pin=U17-14
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U4-2
+Added Pin To Net: NetName=NetR22_2 Pin=U17-3
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U5-2
+Added Pin To Net: NetName=NetR25_2 Pin=U17-6
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=NetR28_2 Pin=U6-2
+Added Pin To Net: NetName=NetR28_2 Pin=U17-8
+Added Net: Name=NetR28_2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=U7-2
+Added Pin To Net: NetName=NetR36_2 Pin=U17-11
+Added Net: Name=NetR36_2
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U17 SN74AHCT125RGYR

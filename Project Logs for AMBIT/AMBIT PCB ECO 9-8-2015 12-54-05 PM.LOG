@@ -1,0 +1,32 @@
+Change Component DesignItemId : Designator=R22 Old DesignItemId=RC1005F104CS New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R25 Old DesignItemId=RC1005F104CS New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R28 Old DesignItemId=RC1005F104CS New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R36 Old DesignItemId=RC1005F104CS New DesignItemId=RC0402FR-0710KP
+Change Component Comment : Designator=R22 Old Comment=100K New Comment=10K
+Change Component Comment : Designator=R25 Old Comment=100K New Comment=10K
+Change Component Comment : Designator=R28 Old Comment=100K New Comment=10K
+Change Component Comment : Designator=R36 Old Comment=100K New Comment=10K
+Change Component Description : Designator=R22 Old Description=RES SMD 100K OHM 1% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R25 Old Description=RES SMD 100K OHM 1% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R28 Old Description=RES SMD 100K OHM 1% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R36 Old Description=RES SMD 100K OHM 1% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Library : Designator=R22 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=R25 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=R28 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=R36 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Added Pin To Net: NetName=FET_PWM3 Pin=R22-2
+Added Pin To Net: NetName=FET_PWM4 Pin=R25-2
+Added Pin To Net: NetName=FET_PWM5 Pin=R28-2
+Added Pin To Net: NetName=BED_PWM Pin=R36-2
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Pin To Net: NetName=NetU4_2 Pin=U17-3
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU5_2 Pin=U5-2
+Added Pin To Net: NetName=NetU5_2 Pin=U17-6
+Added Net: Name=NetU5_2
+Added Pin To Net: NetName=NetU6_2 Pin=U6-2
+Added Pin To Net: NetName=NetU6_2 Pin=U17-11
+Added Net: Name=NetU6_2
+Added Pin To Net: NetName=NetU7_2 Pin=U7-2
+Added Pin To Net: NetName=NetU7_2 Pin=U17-8
+Added Net: Name=NetU7_2
