@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+5VCC Pin=J20-3
+Removed Pin From Net: NetName=GND Pin=J20-4
+Change Component DesignItemId : Designator=J20 Old DesignItemId=Molex 0705430003 Alt New DesignItemId=0705430004
+Change Component Comment : Designator=J20 Old Comment=Molex 0705430003 New Comment=0705430004
+Change Component Description : Designator=J20 Old Description=Molex 4 Pin Clip Connector New Description=5pos Latching 2.54mm
+Change Component Library : Designator=J20 Old Library=ZMBo Schematic Library.SchLib New Library=3Delight.SCHLIB
+Added Pin To Net: NetName=NRST Pin=J20-3
+Added Pin To Net: NetName=+5VCC Pin=J20-4

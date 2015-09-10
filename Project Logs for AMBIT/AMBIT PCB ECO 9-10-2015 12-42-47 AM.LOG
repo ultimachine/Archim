@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=J20 Old Footprint=4POL254 New Footprint=5POL254
+Added Pin To Net: NetName=GND Pin=J20-5
