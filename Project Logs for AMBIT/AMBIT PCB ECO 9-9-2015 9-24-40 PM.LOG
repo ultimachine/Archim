@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=PA14_RTS1 New Net Name=PA15_CTS1
+Change Net Name : Old Net Name=PA15_CTS1 New Net Name=PA14_RTS1
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U17 SN74AHCT125RGYR
