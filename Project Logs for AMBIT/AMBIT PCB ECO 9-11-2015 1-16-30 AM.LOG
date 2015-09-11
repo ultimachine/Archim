@@ -1,0 +1,239 @@
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C13
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C16
+Removed Member From Class: ClassName=USB Member=C26
+Removed Member From Class: ClassName=Designator Member=C29
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C32
+Removed Member From Class: ClassName=USB Member=C37
+Removed Member From Class: ClassName=Microcontroller Member=C43
+Removed Member From Class: ClassName=Designator Member=C48
+Removed Member From Class: ClassName=USB Member=C53
+Removed Member From Class: ClassName=ES2 Member=C65
+Removed Member From Class: ClassName=Designator Member=C66
+Removed Member From Class: ClassName=Microcontroller Member=C68
+Removed Member From Class: ClassName=Designator Member=C71
+Removed Member From Class: ClassName=Designator Member=C82
+Removed Member From Class: ClassName=M3 Member=C85
+Removed Member From Class: ClassName=M4 Member=C93
+Removed Member From Class: ClassName=M2 Member=C111
+Removed Member From Class: ClassName=M3 Member=C123
+Removed Member From Class: ClassName=M1 Member=C129
+Removed Member From Class: ClassName=M1 Member=C140
+Removed Member From Class: ClassName=Designator Member=D8
+Removed Member From Class: ClassName=Designator Member=D9
+Removed Member From Class: ClassName=Microcontroller Member=D23
+Removed Member From Class: ClassName=TR3 Member=D34
+Removed Member From Class: ClassName=TR1 Member=J13
+Removed Member From Class: ClassName=Designator Member=R6
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R11
+Removed Member From Class: ClassName=Designator Member=R12
+Removed Member From Class: ClassName=Designator Member=R14
+Removed Member From Class: ClassName=Microcontroller Member=R27
+Removed Member From Class: ClassName=Microcontroller Member=R33
+Removed Member From Class: ClassName=Microcontroller Member=R44
+Removed Member From Class: ClassName=Microcontroller Member=R46
+Removed Member From Class: ClassName=ES1 Member=R48
+Removed Member From Class: ClassName=Microcontroller Member=R48
+Removed Member From Class: ClassName=USB Member=R50
+Removed Member From Class: ClassName=Microcontroller Member=R66
+Removed Member From Class: ClassName=TR4 Member=R66
+Removed Member From Class: ClassName=ES1 Member=R70
+Removed Member From Class: ClassName=TR2 Member=R82
+Removed Member From Class: ClassName=USB Member=R89
+Removed Member From Class: ClassName=M2 Member=R100
+Removed Member From Class: ClassName=M4 Member=R107
+Removed Member From Class: ClassName=M4 Member=R108
+Removed Member From Class: ClassName=M3 Member=R111
+Removed Member From Class: ClassName=M1 Member=R125
+Removed Member From Class: ClassName=M1 Member=R126
+Removed Member From Class: ClassName=M1 Member=R130
+Removed Member From Class: ClassName=U_MZ Member=R130
+Removed Member From Class: ClassName=M1 Member=TP10
+Removed Member From Class: ClassName=M3 Member=TP24
+Removed Member From Class: ClassName=M3 Member=TP25
+Removed Member From Class: ClassName=M3 Member=TP35
+Removed Member From Class: ClassName=Designator Member=TP41
+Removed Member From Class: ClassName=Designator Member=TP42
+Removed Member From Class: ClassName=M1 Member=TP45
+Removed Member From Class: ClassName=Designator Member=TP49
+Removed Member From Class: ClassName=M1 Member=TP49
+Removed Member From Class: ClassName=USB Member=TP56
+Removed Member From Class: ClassName=TR4 Member=TP74
+Removed Member From Class: ClassName=Microcontroller Member=TP79
+Removed Member From Class: ClassName=M1 Member=TP84
+Removed Member From Class: ClassName=M3 Member=TP95
+Removed Member From Class: ClassName=USB Member=U8
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=U11
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC7A_2 New Net Name=NetC96_2
+Change Net Name : Old Net Name=NetC7B_2 New Net Name=NetC97_2
+Change Net Name : Old Net Name=NetC7C_2 New Net Name=NetC124_2
+Change Net Name : Old Net Name=NetC7D_2 New Net Name=NetC125_2
+Change Net Name : Old Net Name=NetC8A_2 New Net Name=NetC104_2
+Change Net Name : Old Net Name=NetC8B_2 New Net Name=NetC103_2
+Change Net Name : Old Net Name=NetC8C_2 New Net Name=NetC105_2
+Change Net Name : Old Net Name=NetC8D_2 New Net Name=NetC106_2
+Change Net Name : Old Net Name=NetC9A_1 New Net Name=NetC110_1
+Change Net Name : Old Net Name=NetC9B_1 New Net Name=NetC108_1
+Change Net Name : Old Net Name=NetC9C_1 New Net Name=NetC112_1
+Change Net Name : Old Net Name=NetC9D_1 New Net Name=NetC113_1
+Change Net Name : Old Net Name=NetC10A_1 New Net Name=NetC98_1
+Change Net Name : Old Net Name=NetC10A_2 New Net Name=NetC98_2
+Change Net Name : Old Net Name=NetC10B_1 New Net Name=NetC99_1
+Change Net Name : Old Net Name=NetC10B_2 New Net Name=NetC99_2
+Change Net Name : Old Net Name=NetC10C_1 New Net Name=NetC101_1
+Change Net Name : Old Net Name=NetC10C_2 New Net Name=NetC101_2
+Change Net Name : Old Net Name=NetC10D_1 New Net Name=NetC102_1
+Change Net Name : Old Net Name=NetC10D_2 New Net Name=NetC102_2
+Change Net Name : Old Net Name=NetC11A_2 New Net Name=NetC83_2
+Change Net Name : Old Net Name=NetC11B_2 New Net Name=NetC84_2
+Change Net Name : Old Net Name=NetC11C_2 New Net Name=NetC86_2
+Change Net Name : Old Net Name=NetC11D_2 New Net Name=NetC87_2
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC12A_1 New Net Name=NetC136_1
+Change Net Name : Old Net Name=NetC12B_1 New Net Name=NetC144_1
+Change Net Name : Old Net Name=NetC12C_1 New Net Name=NetC141_1
+Change Net Name : Old Net Name=NetC12D_1 New Net Name=NetC142_1
+Change Net Name : Old Net Name=NetC13A_1 New Net Name=NetC126_1
+Change Net Name : Old Net Name=NetC13B_1 New Net Name=NetC132_1
+Change Net Name : Old Net Name=NetC13C_1 New Net Name=NetC134_1
+Change Net Name : Old Net Name=NetC13D_1 New Net Name=NetC135_1
+Change Net Name : Old Net Name=NetC14A_1 New Net Name=NetC137_1
+Change Net Name : Old Net Name=NetC14B_1 New Net Name=NetC138_1
+Change Net Name : Old Net Name=NetC14C_1 New Net Name=NetC145_1
+Change Net Name : Old Net Name=NetC14D_1 New Net Name=NetC143_1
+Change Net Name : Old Net Name=NetC15A_2 New Net Name=NetC127_2
+Change Net Name : Old Net Name=NetC15B_2 New Net Name=NetC128_2
+Change Net Name : Old Net Name=NetC15C_2 New Net Name=NetC130_2
+Change Net Name : Old Net Name=NetC15D_2 New Net Name=NetC131_2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC26_1
+Change Net Name : Old Net Name=NetC38_2 New Net Name=NetC48_2
+Change Net Name : Old Net Name=NetC40_2 New Net Name=NetC43_2
+Change Net Name : Old Net Name=NetC41_1 New Net Name=NetC42_1
+Change Net Name : Old Net Name=NetC42_1 New Net Name=NetC41_1
+Change Net Name : Old Net Name=NetC86_2 New Net Name=NetC85_2
+Change Net Name : Old Net Name=NetC108_1 New Net Name=NetC100_1
+Change Net Name : Old Net Name=NetC108_2 New Net Name=NetC100_2
+Change Net Name : Old Net Name=NetC110_2 New Net Name=NetC107_2
+Change Net Name : Old Net Name=NetC115_1 New Net Name=NetC111_1
+Change Net Name : Old Net Name=NetC116_2 New Net Name=NetC123_2
+Change Net Name : Old Net Name=NetC133_1 New Net Name=NetC139_1
+Change Net Name : Old Net Name=NetC134_1 New Net Name=NetC133_1
+Change Net Name : Old Net Name=NetC136_1 New Net Name=NetC140_1
+Change Net Name : Old Net Name=NetC137_2 New Net Name=NetC129_2
+Change Net Name : Old Net Name=NetD3A_A New Net Name=NetD29_A
+Change Net Name : Old Net Name=NetD3B_A New Net Name=NetD31_A
+Change Net Name : Old Net Name=NetD3C_A New Net Name=NetD33_A
+Change Net Name : Old Net Name=NetD4_A New Net Name=NetD13_A
+Change Net Name : Old Net Name=NetD4A_A New Net Name=NetD28_A
+Change Net Name : Old Net Name=NetD4B_A New Net Name=NetD30_A
+Change Net Name : Old Net Name=NetD4C_A New Net Name=NetD32_A
+Change Net Name : Old Net Name=NetD6_A New Net Name=NetD16_A
+Change Net Name : Old Net Name=NetD9_A New Net Name=NetD17_A
+Change Net Name : Old Net Name=NetD13A_C New Net Name=NetD34_C
+Change Net Name : Old Net Name=NetD14_A New Net Name=NetD9_A
+Change Net Name : Old Net Name=NetD15_A New Net Name=NetD2_A
+Change Net Name : Old Net Name=NetD23_A New Net Name=NetD24_A
+Change Net Name : Old Net Name=NetD24_A New Net Name=NetD23_A
+Change Net Name : Old Net Name=NetJ5A_1 New Net Name=NetJ14_1
+Change Net Name : Old Net Name=NetJ5B_1 New Net Name=NetJ15_1
+Change Net Name : Old Net Name=NetJ5C_1 New Net Name=NetJ16_1
+Change Net Name : Old Net Name=NetJ5D_1 New Net Name=NetJ17_1
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ2_4 New Net Name=NetQ1_4
+Change Net Name : Old Net Name=NetQ3_4 New Net Name=NetQ2_4
+Change Net Name : Old Net Name=NetQ4_4 New Net Name=NetQ3_4
+Change Net Name : Old Net Name=NetQ5_4 New Net Name=NetQ4_4
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR18_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR28A_2 New Net Name=NetR122_2
+Change Net Name : Old Net Name=NetR28B_2 New Net Name=NetR124_2
+Change Net Name : Old Net Name=NetR28C_2 New Net Name=NetR128_2
+Change Net Name : Old Net Name=NetR28D_2 New Net Name=NetR130_2
+Change Net Name : Old Net Name=NetR29A_2 New Net Name=NetR121_2
+Change Net Name : Old Net Name=NetR29B_2 New Net Name=NetR123_2
+Change Net Name : Old Net Name=NetR29C_2 New Net Name=NetR127_2
+Change Net Name : Old Net Name=NetR29D_2 New Net Name=NetR129_2
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR44_1 New Net Name=NetR42_1
+Change Net Name : Old Net Name=NetR50_1 New Net Name=NetR48_1
+Change Net Name : Old Net Name=NetR52_1 New Net Name=NetR51_1
+Change Net Name : Old Net Name=NetR72_2 New Net Name=NetR82_2
+Change Net Name : Old Net Name=NetR73_2 New Net Name=NetR77_2
+Change Net Name : Old Net Name=NetR84_2 New Net Name=NetR83_2
+Change Net Name : Old Net Name=NetR121_2 New Net Name=NetR125_2
+Change Net Name : Old Net Name=NetR122_2 New Net Name=NetR126_2
+Change Net Name : Old Net Name=NetU4_2 New Net Name=NetU3_2
+Change Net Name : Old Net Name=NetU5_2 New Net Name=NetU4_2
+Change Net Name : Old Net Name=NetU6_2 New Net Name=NetU5_2
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C14 C0603TBD
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C17 C0603TBD
+Added Member To Class: ClassName=Designator Member=Component C25 UWT1V101MCL1GS
+Added Member To Class: ClassName=USB Member=Component C28 100nF
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C31 100nF
+Added Member To Class: ClassName=USB Member=Component C33 100nF
+Added Member To Class: ClassName=Designator Member=Component C38 TBD
+Added Member To Class: ClassName=Microcontroller Member=Component C40 10nF
+Added Member To Class: ClassName=USB Member=Component C50 C0603TBD
+Added Member To Class: ClassName=ES2 Member=Component C59 (C5) 10nF
+Added Member To Class: ClassName=Designator Member=Component C67 C0402TBD
+Added Member To Class: ClassName=Designator Member=Component C68 100nF
+Added Member To Class: ClassName=Microcontroller Member=Component C70 47uF
+Added Member To Class: ClassName=Designator Member=Component C81 100nF
+Added Member To Class: ClassName=M3 Member=Component C86 (C11) 0402
+Added Member To Class: ClassName=M4 Member=Component C92 (C17) UWT1V101MCL1GS
+Added Member To Class: ClassName=M2 Member=Component C115 (C18) 100nF
+Added Member To Class: ClassName=M3 Member=Component C116 (C18) 100nF
+Added Member To Class: ClassName=M1 Member=Component C136 (C7) 1nF
+Added Member To Class: ClassName=M1 Member=Component C137 (C13) 1nF
+Added Member To Class: ClassName=Designator Member=Component D2 SK310A-TP
+Added Member To Class: ClassName=Designator Member=Component D5 RSB39VTE-17
+Added Member To Class: ClassName=Microcontroller Member=Component D24 5988110107F
+Added Member To Class: ClassName=TR3 Member=Component D42 (D48) 1N4148WT
+Added Member To Class: ClassName=TR1 Member=Component J14 (J8A) C-GRID-02-70543
+Added Member To Class: ClassName=Designator Member=Component R4 R0402TBD
+Added Member To Class: ClassName=Designator Member=Component R5 0.6r
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R9 1.8K
+Added Member To Class: ClassName=Designator Member=Component R13 24r
+Added Member To Class: ClassName=Microcontroller Member=Component R34 1k
+Added Member To Class: ClassName=Microcontroller Member=Component R36 1k
+Added Member To Class: ClassName=Microcontroller Member=Component R40 4.7K
+Added Member To Class: ClassName=Microcontroller Member=Component R41 1k
+Added Member To Class: ClassName=USB Member=Component R42 24r
+Added Member To Class: ClassName=Microcontroller Member=Component R50 1k
+Added Member To Class: ClassName=USB Member=Component R51 100K
+Added Member To Class: ClassName=ES1 Member=Component R52 (R35) 100K
+Added Member To Class: ClassName=ES1 Member=Component R54 (R19) 1k
+Added Member To Class: ClassName=Microcontroller Member=Component R64 10K
+Added Member To Class: ClassName=TR2 Member=Component R72 (R7) 4.7K
+Added Member To Class: ClassName=TR4 Member=Component R79 (R188) 4.7K
+Added Member To Class: ClassName=M2 Member=Component R96 (R25) NP
+Added Member To Class: ClassName=M3 Member=Component R104 (R39) 10K
+Added Member To Class: ClassName=M4 Member=Component R105 (R24) 100K
+Added Member To Class: ClassName=M4 Member=Component R106 (R39) 10K
+Added Member To Class: ClassName=M1 Member=Component R121 (R28) 2512
+Added Member To Class: ClassName=M1 Member=Component R122 (R29) 2512
+Added Member To Class: ClassName=M3 Member=Component TP13 (TP23) TP4
+Added Member To Class: ClassName=M1 Member=Component TP14 (TP24) TP4
+Added Member To Class: ClassName=M3 Member=Component TP20 (TP21) TP4
+Added Member To Class: ClassName=M3 Member=Component TP33 (TP10) TP4
+Added Member To Class: ClassName=Designator Member=Component TP43 TP4
+Added Member To Class: ClassName=Designator Member=Component TP44 TP4
+Added Member To Class: ClassName=Designator Member=Component TP51 TP4
+Added Member To Class: ClassName=USB Member=Component TP55 TP4
+Added Member To Class: ClassName=TR4 Member=Component TP72 (TP101) TP4
+Added Member To Class: ClassName=Microcontroller Member=Component TP75 TP4
+Added Member To Class: ClassName=M1 Member=Component TP80 (TP25) TP4
+Added Member To Class: ClassName=M3 Member=Component TP91 (TP17) TP4
+Added Member To Class: ClassName=M1 Member=Component TP103 (TP17) TP4
+Added Member To Class: ClassName=M1 Member=Component TP104 (TP11) TP4
+Added Member To Class: ClassName=USB Member=Component U9 ADuM4160
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U10 SN74AHCT125RGYR
