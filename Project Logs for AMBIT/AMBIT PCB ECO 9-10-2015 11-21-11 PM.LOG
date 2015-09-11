@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=R9 Old DesignItemId=ERJ-3EKF1002V New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R11 Old DesignItemId=ERJ-3EKF1002V New DesignItemId=RC0402FR-0710KP
+Change Component Footprint: Designator=R9 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R11 Old Footprint=R0603 New Footprint=R0402
