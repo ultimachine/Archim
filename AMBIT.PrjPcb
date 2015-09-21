@@ -224,111 +224,203 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=AMBIT 9-11-2015 1-00-10 AM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=AMBIT 9-11-2015 12-36-48 AM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_0.1b.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM30
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GM31
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument21]
 DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_0.1b.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument22]
 DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.1b.REP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument23]
 DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_0.1b.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument24]
 DocumentPath=ProjectOutputsForAMBIT\Pick Place\AMBIT_0.1b.txt
 DItemRevisionGUID=
 
+[GeneratedDocument25]
+DocumentPath=ProjectOutputsForAMBIT\BOM\AMBIT_0.2a.csv
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_0.2a.DRR
+DItemRevisionGUID=
+
 [GeneratedDocument27]
-DocumentPath=Project Outputs for AMBIT\Design Rule Check - AMBIT.html
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM30
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM31
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_0.2a.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.REP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=ProjectOutputsForAMBIT\BOM\AMBIT_0.2a.txt
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_0.2a.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=ProjectOutputsForAMBIT\Pick Place\AMBIT_0.2a.txt
 DItemRevisionGUID=
 
 [Parameter1]
@@ -585,7 +677,7 @@ OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType5=Composite
 OutputName5=Composite Drawing
-OutputDocumentPath5=C:\Users\johnny\Documents\GitHub\Tigershark3D\PCB-Rev2\Tigershark 3D R2.4 - TR.PcbDoc
+OutputDocumentPath5=C:\Users\johnny\Documents\AMBIT\AMBIT.PcbDoc
 OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=2794|PaperWidth=2159|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=8 1/2x11|PaperIndex=1

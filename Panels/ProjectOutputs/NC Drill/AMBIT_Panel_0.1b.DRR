@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: AMBIT-panel.PcbDoc   9/21/2015  1:43:57 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : AMBIT_Panel_0.1b.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        118.1mil (2.99974mm)     Round          4         NPTH   18.09 Inch (459.44 mm)
+---------------------------------------------------------------------------
+Totals                                            4                18.09 Inch (459.44 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

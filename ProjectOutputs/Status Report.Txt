@@ -1,0 +1,10 @@
+Output: FeederBOM
+Type  : BOM
+From  : Project [AMBIT.PrjPcb]
+   Generated File[AMBIT_0.2a.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:41:48 PM On 9/21/2015

@@ -54,7 +54,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YNPKRDNU
 
 [Document2]
-DocumentPath=AMBIT.OutJob
+DocumentPath=AMBIT-panel.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,107 +71,315 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_Panel_0.1b.DRR
+DocumentPath=..\ProjectOutputsForAMBIT\NC Drill\AMBIT_0.2a.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.EXTREP
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GBL
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GBO
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GBP
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GBS
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GD1
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GG1
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM1
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM2
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM8
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM15
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM30
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM30
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM31
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GM31
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GP1
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GP2
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GTL
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GTO
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GTP
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GTS
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_Panel_0.1b.LDP
+DocumentPath=..\ProjectOutputsForAMBIT\NC Drill\AMBIT_0.2a.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.REP
+DocumentPath=..\ProjectOutputsForAMBIT\Gerber\AMBIT_0.2a.REP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=ProjectOutputsForAMBIT\NC Drill\AMBIT_Panel_0.1b.TXT
+DocumentPath=..\ProjectOutputsForAMBIT\NC Drill\AMBIT_0.2a.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=ProjectOutputsForAMBIT\NC Drill\ProjectTitle_projectVersion.DRR
+DocumentPath=..\ProjectOutputsForAMBIT\Pick Place\AMBIT_0.2a.txt
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=ProjectOutputsForAMBIT\NC Drill\ProjectTitle_projectVersion.LDP
+DocumentPath=./ProjectOutputs\BOM\AMBIT_Panel_0.1b.csv
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=ProjectOutputsForAMBIT\NC Drill\ProjectTitle_projectVersion.TXT
+DocumentPath=./ProjectOutputsForAMBIT\BOM\AMBIT_Panel_0.1b.csv
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\ProjectOutputsForAMBIT\BOM\AMBIT_Panel_0.1b.csv
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=./ProjectOutputs\NC Drill\AMBIT_Panel_0.1b.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=./ProjectOutputsForAMBIT\NC Drill\AMBIT_Panel_0.1b.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GM30
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM30
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GM31
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GM31
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=./ProjectOutputs\NC Drill\AMBIT_Panel_0.1b.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=./ProjectOutputsForAMBIT\NC Drill\AMBIT_Panel_0.1b.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=./ProjectOutputs\Gerber\AMBIT_Panel_0.1b.REP
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=./ProjectOutputsForAMBIT\Gerber\AMBIT_Panel_0.1b.REP
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=./ProjectOutputs\BOM\AMBIT_Panel_0.1b.txt
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=./ProjectOutputs\NC Drill\AMBIT_Panel_0.1b.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=./ProjectOutputs\Pick Place\AMBIT_Panel_0.1b.txt
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=./ProjectOutputsForAMBIT\BOM\AMBIT_Panel_0.1b.txt
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=./ProjectOutputsForAMBIT\NC Drill\AMBIT_Panel_0.1b.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=./ProjectOutputsForAMBIT\Pick Place\AMBIT_Panel_0.1b.txt
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=..\ProjectOutputsForAMBIT\BOM\AMBIT_Panel_0.1b.txt
 DItemRevisionGUID=
 
 [Parameter1]

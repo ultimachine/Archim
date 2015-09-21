@@ -1,0 +1,11 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Designator FIDUCIAL-2X3-PANEL    381.102mil    131.102mil    381.102mil    131.102mil    381.102mil    131.102mil  T         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL   4239.961mil    134.055mil   4239.961mil    134.055mil   4239.961mil    134.055mil  T         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL   4239.961mil   8481.906mil   4239.961mil   8481.906mil   4239.961mil   8481.906mil  T         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL    381.102mil   8481.906mil    381.102mil   8481.906mil    381.102mil   8481.906mil  T         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL    381.102mil   8481.906mil    381.102mil   8481.906mil    381.102mil   8481.906mil  B         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL   4239.961mil   8481.906mil   4239.961mil   8481.906mil   4239.961mil   8481.906mil  B         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL   4239.961mil    134.055mil   4239.961mil    134.055mil   4239.961mil    134.055mil  B         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL    381.102mil    131.102mil    381.102mil    131.102mil    381.102mil    131.102mil  B         90.00 Comment        
+
