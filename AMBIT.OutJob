@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=AMBIT.OutJob
 Description=
-TargetOutputMedium=BOM
+TargetOutputMedium=PDF
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=KONICA MINOLTA C360SeriesPCL
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -42,7 +42,7 @@ OutputName1=Schematic Prints
 OutputCategory1=Documentation
 OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
-OutputEnabled1=0
+OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -58,7 +58,7 @@ OutputName2=PCB Prints
 OutputCategory2=Documentation
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
@@ -102,7 +102,7 @@ OutputName3=Bill of Materials
 OutputCategory3=Report
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=0
@@ -128,7 +128,7 @@ OutputName4=PCB 3D Print
 OutputCategory4=Documentation
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=0
+OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=3
 OutputEnabled4_OutputMedium3=0
@@ -258,9 +258,9 @@ Configuration10_Name7=VisibleOrder
 Configuration10_Item7=LibRef=85|Comment=108|Description=108|Designator=160|Footprint=147|Quantity=58
 
 [PublishSettings]
-OutputFilePath2=C:\Users\johnny\Documents\GitHub\ambit\New folder\PCB-Rev2\ProjectOutputsForAMBIT\ProjectTitle_projectVersion_VariantName_VarRevNo.PDF
+OutputFilePath2=C:\Users\johnny\Documents\AMBIT\./ProjectOutputs\AMBIT_0.2a_VariantName_VarRevNo.PDF
 ReleaseManaged2=0
-OutputBasePath2=ProjectOutputsForAMBIT\
+OutputBasePath2=./ProjectOutputs\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=
@@ -341,10 +341,10 @@ OutputPathMediaValue5=
 OutputPathOutputer5=[Output Type]
 OutputPathOutputerPrefix5=
 OutputPathOutputerValue5=
-OutputFileName5=Tigershark 3D rev2 PreProduction Thermistors Version.PDF
+OutputFileName5=AMBIT.PDF
 OutputFileNameMulti5=
-UseOutputNameForMulti5=1
-OutputFileNameSpecial5=
+UseOutputNameForMulti5=0
+OutputFileNameSpecial5==ProjectTitle+_+projectVersion+_+VariantName+_+VarRevNo
 OpenOutput5=1
 PromptOverwrite5=1
 PublishMethod5=0
@@ -372,7 +372,7 @@ OutputFileNameSpecial6=
 OpenOutput6=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\johnny\Documents\GitHub\ambit\New folder\PCB-Rev2\ProjectOutputsForAMBIT\ProjectTitle_projectVersion_VariantName_VarRevNo.PDF
+RelativeOutputPath2=C:\Users\johnny\Documents\AMBIT\./ProjectOutputs\AMBIT_0.2a_VariantName_VarRevNo.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\johnny\Documents\AMBIT\Panels\./ProjectOutputs\
 OpenOutputs3=1
