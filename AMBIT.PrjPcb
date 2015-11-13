@@ -28,7 +28,9 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+OutputPath=Project Outputs for AMBIT
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -331,6 +333,10 @@ DItemRevisionGUID=
 DocumentPath=./ProjectOutputs\Pick Place\AMBIT_0.2a.txt
 DItemRevisionGUID=
 
+[GeneratedDocument28]
+DocumentPath=Project Outputs for AMBIT\Design Rule Check - AMBIT.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=projectDesigner
 Value=UltiMachine
@@ -398,7 +404,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for AMBIT
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1099,6 +1105,16 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+OutputType5=NetList Sch
+OutputName5=NetList Sch
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=PDF3D
+OutputName6=Export PDF3D
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
 
 [Modification Levels]
 Type1=1
@@ -1336,6 +1352,7 @@ Type107=2
 Type108=2
 Type109=1
 Type110=1
+Type111=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1502,6 +1519,7 @@ NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
 SelectedOnly=0

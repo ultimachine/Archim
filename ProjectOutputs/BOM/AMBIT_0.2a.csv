@@ -48,6 +48,7 @@ LibRef,Comment,Description,Designator,Footprint,Quantity
 "DRV8825","DRV8825","DRV8825 Ti Stepper Driver","U13, U14, U15, U16, U17","DRV8825PWPR","5"
 "ESD9B3.3ST5G","ESD9B3.3ST5G","11.5 V 15 pF SMT Transient Voltage Suppressor - SOD-923","D28, D29, D30, D31, D32, D33, D64, D65, D66, D67, D68, D69","SOD923-100X40-2N","12"
 "FIDUCIAL","FIDUCIAL","","FD1, FD2, FD3","FIDUCIAL-1X2","3"
+"Header 4X2","Header 4X2","Header, 4-Pin, Dual row","P1","HDR2X4","1"
 "Header 5X2","Header 5X2","Header, 5-Pin, Dual row","J12, J13","HDR2X5","2"
 "Header 12X2","Header 12X2","Header, 12-Pin, Dual row","J20","HDR2X12","1"
 "IRLML6346TRPBF","IRLML6346TRPBF","Mosfet N-Channel 30V 3.4A 63mOhm","Q5, Q6","SOT23-3","2"

@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: AMBIT.PcbDoc   9/21/2015  1:41:22 PM
+NCDrill File Report For: AMBIT.PcbDoc   11/12/2015  2:49:15 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,21 +8,21 @@ ASCII RoundHoles File : AMBIT_0.2a.TXT
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
 T1        10mil (0.254mm)          Round          4                0.13 Inch (3.30 mm)
-T2        15mil (0.381mm)          Round          1265             119.16 Inch (3026.65 mm)
-T3        20mil (0.508mm)          Round          1                0.00 Inch (0.00 mm)
-T4        22mil (0.5588mm)         Round          2                3.30 Inch (83.84 mm)
+T2        15mil (0.381mm)          Round          1257             120.32 Inch (3056.18 mm)
+T3        20mil (0.508mm)          Round          3                3.06 Inch (77.69 mm)
+T4        22mil (0.5588mm)         Round          1                0.00 Inch (0.00 mm)
 T5        24mil (0.6096mm)         Round          7                1.73 Inch (44.00 mm)
 T6        30mil (0.762mm)          Round          2                0.08 Inch (2.03 mm)
-T7        35.4mil (0.89916mm)      Round          44               4.61 Inch (117.07 mm)
+T7        35.4mil (0.89916mm)      Round          52               7.04 Inch (178.88 mm)
 T8        38mil (0.9652mm)         Round          4                0.26 Inch (6.53 mm)
-T9        40mil (1.016mm)          Round          63               14.63 Inch (371.63 mm)
-T10       55mil (1.397mm)          Round          16               8.04 Inch (204.28 mm)
+T9        40mil (1.016mm)          Round          63               14.64 Inch (371.90 mm)
+T10       55mil (1.397mm)          Round          16               8.03 Inch (204.09 mm)
 T11       59mil (1.4986mm)         Round          2                0.28 Inch (7.01 mm)
 T12       63mil (1.6002mm)         Round          12               3.54 Inch (90.01 mm)
 T13       87mil (2.2098mm)         Round          2                0.47 Inch (12.02 mm)
 T14       118.1mil (2.99974mm)     Round          4         NPTH   12.94 Inch (328.64 mm)
 T15       129.9mil (3.29946mm)     Round          3         NPTH   3.97 Inch (100.94 mm)
 ---------------------------------------------------------------------------
-Totals                                            1431             173.15 Inch (4397.96 mm)
+Totals                                            1432             176.50 Inch (4483.22 mm)
 
-Total Processing Time (hh:mm:ss) : 00:00:03
+Total Processing Time (hh:mm:ss) : 00:00:00
