@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=D21-A
+Removed Pin From Net: NetName=FET_PWM2 Pin=R26-2
+Removed Pin From Net: NetName=FET_PWM1 Pin=R28-2
+Removed Pin From Net: NetName=FET_PWM2 Pin=U2-2
+Removed Pin From Net: NetName=FET_PWM1 Pin=U6-2
+Added Pin To Net: NetName=FGND Pin=D21-A
+Added Pin To Net: NetName=FET_PWM1 Pin=R26-2
+Added Pin To Net: NetName=FET_PWM2 Pin=R28-2
+Added Pin To Net: NetName=FET_PWM1 Pin=U2-2
+Added Pin To Net: NetName=FET_PWM2 Pin=U6-2
