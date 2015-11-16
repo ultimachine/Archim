@@ -1,10 +1,10 @@
 Output: Export STEP
 Type  : ExportSTEP
-From  : PCB Document [AMBIT.PcbDoc]
-   Generated File[AMBIT_0.2a.step]
+From  : PCB Document [Archim.PcbDoc]
+   Generated File[Archim_0.2a.step]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 2:49:45 PM On 11/12/2015
+Finished Output Generation At 10:19:10 AM On 11/13/2015
