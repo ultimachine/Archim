@@ -115,11 +115,11 @@ Generating : Ground Plane
 
 
 Used DCodes :
-    D72
-    D81
-    D97
+    D73
+    D75
+    D96
     D99
-    D101
+    D100
     D102
     D103
     D104
@@ -146,22 +146,22 @@ Generating : Power Plane
 
 
 Used DCodes :
-    D71
-    D72
-    D81
-    D97
+    D68
+    D73
+    D75
+    D96
     D99
-    D101
+    D100
     D102
     D103
     D104
     D105
     D106
     D107
+    D108
     D109
     D110
     D111
-    D112
     D113
     D114
     D115
@@ -181,7 +181,7 @@ Generating : Bottom Layer
 Used DCodes :
     D10
     D11
-    D42
+    D16
     D68
     D69
     D70
@@ -191,10 +191,10 @@ Used DCodes :
     D74
     D75
     D76
-    D77
+    D78
     D79
+    D80
     D81
-    D82
     D84
     D85
     D86
@@ -228,8 +228,8 @@ Used DCodes :
     D69
     D70
     D71
-    D72
     D73
+    D76
     D119
     D120
     D121
@@ -265,8 +265,8 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D38
-    D42
+    D16
+    D51
     D140
     D141
     D142
@@ -329,7 +329,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D43
+    D47
     D91
     D188
     D189
@@ -447,8 +447,8 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D68
-    D119
+    D69
+    D122
 *************************************************************
 
 *************************************************************
@@ -479,13 +479,13 @@ Generating : Mechanical 8
 
 
 Used DCodes :
-    D68
-    D72
-    D119
+    D69
+    D73
+    D121
     D122
-    D126
-    D129
-    D130
+    D125
+    D136
+    D137
     D253
     D254
     D255
@@ -535,8 +535,8 @@ Generating : Mechanical 15
 
 
 Used DCodes :
-    D72
-    D122
+    D73
+    D125
     D253
     D292
 *************************************************************
@@ -552,7 +552,7 @@ Generating : Drill Drawing
 
 Used DCodes :
     D121
-    D126
+    D124
     D293
 *************************************************************
 
@@ -566,6 +566,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D121
+    D124
 *************************************************************
 
