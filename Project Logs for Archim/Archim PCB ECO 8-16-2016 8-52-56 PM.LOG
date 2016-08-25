@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J3 Old Footprint=MSTBV6 New Footprint=MSTBH6
+Change Component Comment : Designator=J3 Old Comment=MSTBV6 New Comment=MSTBH6
+Added Pin To Net: NetName=NetF1_1 Pin=TP44-1
+Added Pin To Net: NetName=NetF2_1 Pin=TP48-1
+Added Member To Class: ClassName=Designator Member=Component TP44 TP4
+Added Member To Class: ClassName=Designator Member=Component TP48 TP4

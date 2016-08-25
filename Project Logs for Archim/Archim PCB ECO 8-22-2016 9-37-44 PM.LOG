@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=S2 Old DesignItemId=KSC721JLFS New DesignItemId=PTS645SM43SMTR92 LFS
+Change Component Footprint: Designator=S2 Old Footprint=KSC721JLFS New Footprint=PTS645SM43SMTR92 LFS
+Change Component Comment : Designator=S2 Old Comment=KSC721JLFS New Comment=PTS645SM43SMTR92 LFS
+Added Member To Class: ClassName=ES1 Member=Component D28 (D13) ESD9B3.3ST5G

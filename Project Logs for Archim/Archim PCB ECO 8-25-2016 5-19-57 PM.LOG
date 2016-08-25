@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=USB_GND Pin=L4-1
+Removed Member From Class: ClassName=USB Member=C48
+Removed Member From Class: ClassName=USB Member=L4
+Removed Member From Class: ClassName=USB Member=R44
+Added Pin To Net: NetName=USB_GND Pin=D26-A
+Added Pin To Net: NetName=USB_GND Pin=D27-2
+Added Pin To Net: NetName=USB_GND Pin=J8-4
+Added Pin To Net: NetName=USB_GND Pin=J8-5
+Added Pin To Net: NetName=USB_GND Pin=J8-6
+Added Pin To Net: NetName=USB_GND Pin=TP60-1
+Change Net Name : Old Net Name=USB_GND New Net Name=USBSHIELD
