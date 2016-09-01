@@ -1,4 +1,0 @@
-Change Component DesignItemId : Designator=C43 Old DesignItemId=GRM155R71C104KA88D New DesignItemId=GRM155R71H103JA88D
-Change Component Comment : Designator=C43 Old Comment=100nF New Comment=0402
-Change Component Description : Designator=C43 Old Description=CAP CER 0402 100nF 16V 10% X7R New Description=CAP CER 10nF 50V X7R 0402
-Change Component Library : Designator=C43 Old Library=3Delight.SCHLIB New Library=Tigershark3D.SchLib

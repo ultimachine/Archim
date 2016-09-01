@@ -1,8 +1,8 @@
-Readme File for Printed Circuit Board 'UMARCHIM02A'
+Readme File for Printed Circuit Board 'UMARCHIM03A'
 
 Board Specification
-Part Number            UMARCHIM02A
-Revision               01
+Part Number            ARCHIM
+Revision               03a
 Board size             104.14 x 102.87mm
 Board Thickness        1.524mm (0.06")
 Board type             Rigid
@@ -38,20 +38,20 @@ Critical Tolerances: None
 
 Layer Description
 (Note: Inner layers are counted from the top downwards)
-Top Paste                     Archim_Panel_0.2a.GTP
-Top Silk Screen               Archim_Panel_0.2a.GTO
-Top Solder Mask               Archim_Panel_0.2a.GTS
-Top Copper                    Archim_Panel_0.2a.GTL
-Inner Layer 1                 Archim_Panel_0.2a.GP1
-Inner Layer 2                 Archim_Panel_0.2a.GP2
-Bottom Copper                 Archim_Panel_0.2a.GBL
-Bottom Solder Mask            Archim_Panel_0.2a.GBS
-Bottom Silk Screen            Archim_Panel_0.2a.GBO
-NC Drill File                 Archim_Panel_0.2a.TXT
-Board Outline	     		        Archim_Panel_0.2a.GM1
-Fabrication Notes             Archim_Panel_0.2a.GM2
-V-Score                       Archim_Panel_0.2a.GM31
-Panel Outline                 Archim_Panel_0.2a.GM32
+Top Paste                     Archim_Panel_0.3a.GTP
+Top Silk Screen               Archim_Panel_0.3a.GTO
+Top Solder Mask               Archim_Panel_0.3a.GTS
+Top Copper                    Archim_Panel_0.3a.GTL
+Inner Layer 1                 Archim_Panel_0.3a.GP1
+Inner Layer 2                 Archim_Panel_0.3a.GP2
+Bottom Copper                 Archim_Panel_0.3a.GBL
+Bottom Solder Mask            Archim_Panel_0.3a.GBS
+Bottom Silk Screen            Archim_Panel_0.3a.GBO
+NC Drill File                 Archim_Panel_0.3a.TXT
+Board Outline	     		        Archim_Panel_0.3a.GM1
+Fabrication Notes             Archim_Panel_0.3a.GM2
+V-Score                       Archim_Panel_0.3a.GM31
+Panel Outline                 Archim_Panel_0.3a.GM32
 
 Contact Information
 Address
@@ -65,8 +65,11 @@ Email          info@ultimachine.com
 Phone          423-228-0005
 
 Purchasing contact : Lee Turner - lee@ultimachine.com
-Technical contact  : Johnny Russell - johnny@ultimachine.com - 1-423-605-2598
+Technical contact  : Johnny Russell - johnny@ultimachine.com
 
 
 Please quote quantities / lead time:
 32 pcs = 16 panels / 2 weeks
+106 pcs = 53 panels
+510 pcs = 255 panels
+1020 pcs = 510 panels

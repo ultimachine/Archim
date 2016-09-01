@@ -1,8 +1,0 @@
-Change Component Designator: OldDesignator=R42A NewDesignator=R129A
-Change Component Designator: OldDesignator=R42B NewDesignator=R129B
-Change Component Designator: OldDesignator=R42C NewDesignator=R129C
-Change Component Designator: OldDesignator=R42D NewDesignator=R129D
-Added Component: Designator=R42(R0402)
-Added Pin To Net: NetName=EN_Z Pin=R42-1
-Added Pin To Net: NetName=3.3VCC Pin=R42-2
-Added Member To Class: ClassName=U_MZ Member=Component R42 10K

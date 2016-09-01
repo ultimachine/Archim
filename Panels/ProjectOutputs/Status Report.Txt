@@ -1,10 +1,10 @@
 Output: Generates pick and place files
 Type  : Pick Place
 From  : PCB Document [Archim-panel.PcbDoc]
-   Generated File[Archim_Panel_0.2a.txt]
+   Generated File[Archim_Panel_0.3a.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:09:57 AM On 11/16/2015
+Finished Output Generation At 8:49:45 PM On 8/28/2016

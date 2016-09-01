@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=VUSB Pin=C47-1
-Removed Pin From Net: NetName=USB_GND Pin=C47-2
-Removed Member From Class: ClassName=USB Member=C47

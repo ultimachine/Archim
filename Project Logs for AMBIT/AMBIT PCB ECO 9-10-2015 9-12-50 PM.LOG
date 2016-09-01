@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=PA26_MOSI Pin=TP74-1
-Removed Pin From Net: NetName=PA25_MISO Pin=TP76-1
-Removed Pin From Net: NetName=PA26_MOSI Pin=U11-2
-Removed Pin From Net: NetName=PA25_MISO Pin=U11-5
-Added Pin To Net: NetName=PA25_MISO Pin=TP74-1
-Added Pin To Net: NetName=PA26_MOSI Pin=TP76-1
-Added Pin To Net: NetName=PA25_MISO Pin=U11-2
-Added Pin To Net: NetName=PA26_MOSI Pin=U11-5

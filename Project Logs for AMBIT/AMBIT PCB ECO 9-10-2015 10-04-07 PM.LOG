@@ -1,8 +1,0 @@
-Change Component DesignItemId : Designator=R19 Old DesignItemId=RC1005F104CS New DesignItemId=RC0402FR-0710KP
-Change Component DesignItemId : Designator=R29 Old DesignItemId=RC1005F104CS New DesignItemId=RC0402FR-0710KP
-Change Component Comment : Designator=R19 Old Comment=100K New Comment=10K
-Change Component Comment : Designator=R29 Old Comment=100K New Comment=10K
-Change Component Description : Designator=R19 Old Description=RES SMD 100K OHM 1% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
-Change Component Description : Designator=R29 Old Description=RES SMD 100K OHM 1% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
-Change Component Library : Designator=R19 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
-Change Component Library : Designator=R29 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
