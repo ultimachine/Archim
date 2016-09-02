@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PA2_TIOA1 Pin=U11-85
+Removed Pin From Net: NetName=DECAYA Pin=U13-19
+Removed Pin From Net: NetName=DECAYB Pin=U14-19
+Removed Pin From Net: NetName=DECAYZ Pin=U15-19
+Removed Pin From Net: NetName=DECAYC Pin=U16-19
+Removed Pin From Net: NetName=DECAYD Pin=U17-19
+Added Pin To Net: NetName=DECAY Pin=U11-85
+Added Net: Name=DECAY

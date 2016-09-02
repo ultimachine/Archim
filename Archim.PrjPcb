@@ -226,10 +226,106 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AMBIT\Design Rule Check - AMBIT.html
+DocumentPath=./ProjectOutputs\BOM\Archim_0.3a.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=./ProjectOutputs\NC Drill\Archim_0.3a.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=./ProjectOutputs\NC Drill\Archim_0.3a.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=./ProjectOutputs\Gerber\Archim_0.3a.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=./ProjectOutputs\ExportSTEP\Archim_0.3a.step
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=./ProjectOutputs\BOM\Archim_0.3a.txt
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=./ProjectOutputs\NC Drill\Archim_0.3a.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=./ProjectOutputs\Pick Place\Archim_0.3a.txt
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Archim\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
@@ -238,26 +334,22 @@ Name=
 Value=
 
 [Parameter2]
-Name=
-Value=
+Name=projectVersion
+Value=0.3b
 
 [Parameter3]
-Name=projectVersion
-Value=0.3a
-
-[Parameter4]
 Name=projectTitle
 Value=Archim
 
-[Parameter5]
+[Parameter4]
 Name=projectDocumentRevision
 Value=A1A
 
-[Parameter6]
+[Parameter5]
 Name=projectDocumentNumber
 Value=1004-001
 
-[Parameter7]
+[Parameter6]
 Name=projectDesigner
 Value=UltiMachine
 

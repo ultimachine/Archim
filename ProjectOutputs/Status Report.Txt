@@ -1,10 +1,10 @@
 Output: Export STEP
 Type  : ExportSTEP
 From  : PCB Document [Archim.PcbDoc]
-   Generated File[Archim_0.3a.step]
+   Generated File[Archim_0.3b.step]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:47:27 PM On 8/28/2016
+Finished Output Generation At 10:47:13 AM On 9/1/2016

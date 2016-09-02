@@ -73,10 +73,14 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=ProjectVersion
-Value=0.3a
+Name=
+Value=
 
 [Parameter2]
+Name=ProjectVersion
+Value=0.3b
+
+[Parameter3]
 Name=ProjectTitle
 Value=Archim_Panel
 

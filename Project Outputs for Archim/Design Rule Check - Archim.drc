@@ -1,0 +1,117 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Johnny-x-9c\Documents\Projects\AMBIT\Archim.PcbDoc
+Date     : 9/1/2016
+Time     : 10:43:13 AM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon and InNetClass('PWR_INPUT')),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=12mil) (Conductor Width=14mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=35mil) (Conductor Width=50mil) (Air Gap=10mil) (Entries=4) (IsVia)
+Rule Violations :0
+
+Processing Rule : SMD To Corner (Distance=3mil) (All)
+   Violation between SMD To Corner Constraint: (1.508mil < 3mil) Between Pad D27-6(466.268mil,2622.496mil) on Top Layer And Track (466.268mil,2622.496mil)(474.173mil,2622.496mil) on Top Layer Actual Distance = 1.508mil
+   Violation between SMD To Corner Constraint: (1.523mil < 3mil) Between Pad D27-1(439.713mil,2622.496mil) on Top Layer And Track (431.792mil,2622.496mil)(439.713mil,2622.496mil) on Top Layer Actual Distance = 1.523mil
+   Violation between SMD To Corner Constraint: (1.726mil < 3mil) Between Pad U11-51(1469.646mil,2216mil) on Top Layer And Track (1432mil,2216mil)(1469.646mil,2216mil) on Top Layer Actual Distance = 1.726mil
+   Violation between SMD To Corner Constraint: (1.575mil < 3mil) Between Pad U11-66(1469.646mil,1920.724mil) on Top Layer And Track (1432.151mil,1920.724mil)(1469.646mil,1920.724mil) on Top Layer Actual Distance = 1.575mil
+   Violation between SMD To Corner Constraint: (0.047mil < 3mil) Between Pad U11-67(1469.646mil,1901.039mil) on Top Layer And Track (1433.679mil,1901.039mil)(1469.646mil,1901.039mil) on Top Layer Actual Distance = 0.047mil
+   Violation between SMD To Corner Constraint: (1.631mil < 3mil) Between Pad U11-74(1560.197mil,1731.748mil) on Top Layer And Track (1560.197mil,1694.197mil)(1560.197mil,1731.748mil) on Top Layer Actual Distance = 1.631mil
+   Violation between SMD To Corner Constraint: (0.395mil < 3mil) Between Pad U11-78(1638.937mil,1731.748mil) on Top Layer And Track (1638.937mil,1731.748mil)(1638.937mil,1768.063mil) on Top Layer Actual Distance = 0.395mil
+   Violation between SMD To Corner Constraint: (1.472mil < 3mil) Between Pad U11-108(2229.488mil,1731.748mil) on Top Layer And Track (2229.488mil,1694.357mil)(2229.488mil,1731.748mil) on Top Layer Actual Distance = 1.472mil
+   Violation between SMD To Corner Constraint: (0.947mil < 3mil) Between Pad U11-138(2300.354mil,2373.48mil) on Top Layer And Track (2300.354mil,2373.48mil)(2337.22mil,2373.48mil) on Top Layer Actual Distance = 0.947mil
+   Violation between SMD To Corner Constraint: (1.367mil < 3mil) Between Pad C113-1(3099.178mil,777mil) on Top Layer And Track (3099.178mil,788.831mil)(3108.429mil,788.831mil) on Top Layer Actual Distance = 1.367mil
+   Violation between SMD To Corner Constraint: (1.367mil < 3mil) Between Pad C112-1(2390.319mil,777mil) on Top Layer And Track (2390.319mil,788.831mil)(2399.57mil,788.831mil) on Top Layer Actual Distance = 1.367mil
+   Violation between SMD To Corner Constraint: (1.367mil < 3mil) Between Pad C110-1(275.743mil,777mil) on Top Layer And Track (275.743mil,788.831mil)(284.994mil,788.831mil) on Top Layer Actual Distance = 1.367mil
+   Violation between SMD To Corner Constraint: (1.326mil < 3mil) Between Pad C5-1(3738mil,3892.3mil) on Top Layer And Track (3733.772mil,3880mil)(3738mil,3884.228mil) on Top Layer Actual Distance = 1.326mil
+   Violation between SMD To Corner Constraint: (1.609mil < 3mil) Between Pad C69-2(1333mil,1960mil) on Top Layer And Track (1320.5mil,1955.5mil)(1325mil,1960mil) on Top Layer Actual Distance = 1.609mil
+   Violation between SMD To Corner Constraint: (1.367mil < 3mil) Between Pad C111-1(1681.72mil,777mil) on Top Layer And Track (1681.72mil,788.831mil)(1690.971mil,788.831mil) on Top Layer Actual Distance = 1.367mil
+   Violation between SMD To Corner Constraint: (1.046mil < 3mil) Between Pad R30-2(2443.898mil,2940.646mil) on Top Layer And Track (2452.756mil,2931.787mil)(2454.898mil,2929.646mil) on Top Layer Actual Distance = 1.046mil
+   Violation between SMD To Corner Constraint: (0.53mil < 3mil) Between Pad U10-9(2471.457mil,2844.488mil) on Top Layer And Track (2471.457mil,2844.488mil)(2471.457mil,2861.22mil) on Top Layer Actual Distance = 0.53mil
+Rule Violations :17
+
+Processing Rule : Acute Angle Constraint (Minimum=60.000) (All)
+   Violation between Acute Angle Constraint: (39.379 < 60.000) Between Pad R52-2(2652mil,2120mil) on Top Layer And Via (2652mil,2145mil) from Top Layer to Bottom Layer (Angle = 39.379)
+   Violation between Acute Angle Constraint: (39.373 < 60.000) Between Pad R52-2(2652mil,2120mil) on Top Layer And Via (2652mil,2145mil) from Top Layer to Bottom Layer (Angle = 39.373)
+   Violation between Acute Angle Constraint: (52.676 < 60.000) Between Via (3872mil,2611mil) from Top Layer to Bottom Layer And Polygon Region (1 hole(s)) Bottom Layer (Angle = 52.676)
+   Violation between Acute Angle Constraint: (56.580 < 60.000) Polygon Region (1 hole(s)) Bottom Layer (Angle = 56.580)
+   Violation between Acute Angle Constraint: (58.817 < 60.000) Between Via (1137mil,1590mil) from Top Layer to Bottom Layer And Track (972mil,1577mil)(1132mil,1577mil) on Top Layer (Angle = 58.817)
+Rule Violations :5
+
+Processing Rule : Width Constraint (Min=8mil) (Max=8mil) (Preferred=8mil) (InNet(UMCU_N) And InNet(UMCU_P))
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=10mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=15mil) (MaxHoleWidth=50mil) (PreferredHoleWidth=24mil) (MinWidth=29mil) (MaxWidth=70mil) (PreferedWidth=40mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=200mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=7mil) (Max=10mil) (Prefered=8mil)  and Width Constraints (Min=7mil) (Max=15mil) (Prefered=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 10mil, Vertical Gap = 10mil ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
+Rule Violations :0
+
+Processing Rule : SMD Entry (Side = Allowed) (Corner = Allowed) (Any Angle = Allowed) (Ignore First Corner = Allowed)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=8mil) (Preferred=8mil) (InNetClass('Can bus'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (InNetClass('Can bus')    and IsTrack),(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=10mil) (MaxHoleWidth=50mil) (PreferredHoleWidth=24mil) (MinWidth=24mil) (MaxWidth=70mil) (PreferedWidth=40mil) (HoleSize < '15')
+Rule Violations :0
+
+
+Violations Detected : 22
+Time Elapsed        : 00:00:14
