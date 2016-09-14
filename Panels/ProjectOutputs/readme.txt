@@ -1,8 +1,8 @@
-Readme File for Printed Circuit Board 'UMARCHIM03A'
+Readme File for Printed Circuit Board 'UMARCHIM03B'
 
 Board Specification
 Part Number            ARCHIM
-Revision               03a
+Revision               03b
 Board size             104.14 x 102.87mm
 Board Thickness        1.524mm (0.06")
 Board type             Rigid
@@ -38,20 +38,20 @@ Critical Tolerances: None
 
 Layer Description
 (Note: Inner layers are counted from the top downwards)
-Top Paste                     Archim_Panel_0.3a.GTP
-Top Silk Screen               Archim_Panel_0.3a.GTO
-Top Solder Mask               Archim_Panel_0.3a.GTS
-Top Copper                    Archim_Panel_0.3a.GTL
-Inner Layer 1                 Archim_Panel_0.3a.GP1
-Inner Layer 2                 Archim_Panel_0.3a.GP2
-Bottom Copper                 Archim_Panel_0.3a.GBL
-Bottom Solder Mask            Archim_Panel_0.3a.GBS
-Bottom Silk Screen            Archim_Panel_0.3a.GBO
-NC Drill File                 Archim_Panel_0.3a.TXT
-Board Outline	     		        Archim_Panel_0.3a.GM1
-Fabrication Notes             Archim_Panel_0.3a.GM2
-V-Score                       Archim_Panel_0.3a.GM31
-Panel Outline                 Archim_Panel_0.3a.GM32
+Top Paste                     Archim_Panel_0.3b.GTP
+Top Silk Screen               Archim_Panel_0.3b.GTO
+Top Solder Mask               Archim_Panel_0.3b.GTS
+Top Copper                    Archim_Panel_0.3b.GTL
+Inner Layer 1                 Archim_Panel_0.3b.GP1
+Inner Layer 2                 Archim_Panel_0.3b.GP2
+Bottom Copper                 Archim_Panel_0.3b.GBL
+Bottom Solder Mask            Archim_Panel_0.3b.GBS
+Bottom Silk Screen            Archim_Panel_0.3b.GBO
+NC Drill File                 Archim_Panel_0.3b.TXT
+Board Outline	     		        Archim_Panel_0.3b.GM1
+Fabrication Notes             Archim_Panel_0.3b.GM2
+V-Score                       Archim_Panel_0.3b.GM31
+Panel Outline                 Archim_Panel_0.3b.GM32
 
 Contact Information
 Address
