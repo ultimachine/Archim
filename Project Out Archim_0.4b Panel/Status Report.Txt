@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Archim_Panel_0.4b.PcbDoc]
+   Generated File[Archim_Panel_0.4b.TXT]
+   Generated File[Archim_Panel_0.4b.LDP]
+   Generated File[Archim_Panel_0.4b.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:22:54 PM On 12/27/2016

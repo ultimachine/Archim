@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=S2 Old Footprint=PTS645SM43SMTR92 LFS New Footprint=KMR 6 Series
-Change Component Comment : Designator=S2 Old Comment=PTS645SM43SMTR92 LFS New Comment=KMR741NG ULC LFS
-Added Pin To Net: NetName=+12VCC3 Pin=TP43-1
-Added Member To Class: ClassName=Designator Member=Component TP43 TP4
