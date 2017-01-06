@@ -1,0 +1,19 @@
+Change Value of Parameter DISTRIBUTOR # in Part C41 Old= New=CL10C030BB8NNND-ND
+Change Value of Parameter DISTRIBUTOR in Part C41 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part C41 Old= New=Samsung
+Change Value of Parameter PART in Part C41 Old= New=3pF 50V NP0 0603
+Change Value of Parameter Part Description in Part C41 Old= New=3pF ±0.1pF 50V Ceramic Capacitor C0G, NP0 0603 (1608 Metric)
+Change Value of Parameter Tolerance in Part C41 Old= New=+/- 0.1pF
+Change Value of Parameter Voltage in Part C41 Old= New=50VDC
+Change Value of Parameter DISTRIBUTOR # in Part C42 Old= New=CL10C030BB8NNND-ND
+Change Value of Parameter DISTRIBUTOR in Part C42 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part C42 Old= New=Samsung
+Change Value of Parameter PART in Part C42 Old= New=3pF 50V NP0 0603
+Change Value of Parameter Part Description in Part C42 Old= New=3pF ±0.1pF 50V Ceramic Capacitor C0G, NP0 0603 (1608 Metric)
+Change Value of Parameter Tolerance in Part C42 Old= New=+/- 0.1pF
+Change Value of Parameter Voltage in Part C42 Old= New=50VDC
+Change Value of Parameter DISTRIBUTOR # in Part C49 Old= New=1276-1139-2-ND
+Change Value of Parameter DISTRIBUTOR in Part C49 Old= New=Digikey
+Change Value of Parameter PART in Part C49 Old= New=10pF 50V NP0 0402
+Change Value of Parameter Part Description in Part C49 Old=CAP CER 10PF 50V 5% NP0 0402 New=10pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)
+Change Value of Parameter Tolerance in Part C49 Old=10% New=5%

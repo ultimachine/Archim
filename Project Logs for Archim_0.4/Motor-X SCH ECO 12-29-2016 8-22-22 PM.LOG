@@ -1,0 +1,21 @@
+Removed Parameter Component Type: from Part C87
+Removed Parameter Component Type: from Part C91
+Removed Parameter Component Type: from Part C92
+Removed Parameter Component Type: from Part C149
+Removed Parameter Datasheet: from Part C87
+Removed Parameter Datasheet: from Part C91
+Removed Parameter Datasheet: from Part C92
+Removed Parameter Datasheet: from Part C149
+Removed Parameter Datasheet: from Part U13
+Removed Parameter MFR:Murata from Part C87
+Removed Parameter MFR:Murata from Part C91
+Removed Parameter MFR:Murata from Part C92
+Removed Parameter MFR:Murata from Part C149
+Removed Parameter MFR:Stackpole ELectronics Inc from Part R121
+Removed Parameter MFR:Stackpole ELectronics Inc from Part R122
+Change Value of Parameter Manufacturer in Part C87 Old= New=Murata
+Change Value of Parameter Manufacturer in Part C91 Old= New=Murata
+Change Value of Parameter Manufacturer in Part C92 Old= New=Murata
+Change Value of Parameter Manufacturer in Part C149 Old= New=Murata
+Change Value of Parameter Manufacturer in Part R121 Old= New=Stackpole ELectronics Inc
+Change Value of Parameter Manufacturer in Part R122 Old= New=Stackpole ELectronics Inc

@@ -1,0 +1,23 @@
+Change Value of Parameter DISTRIBUTOR # in Part R127 Old=CSRN2512FTR100TR-ND New=CSRN2512FKR200TR-ND
+Change Value of Parameter MANUFACTURER # in Part R127 Old= New=CSRN2512FKR200
+Change Value of Parameter PART in Part R127 Old= New=0.2R 1% 2512
+Change Value of Parameter Part Description in Part R127 Old= New=0.2 Ohm ±1% 2W Chip Resistor 2512 (6432 Metric) Current Sense Thick Film
+Change Value of Parameter Tolerance in Part R127 Old= New=1%
+Change Value of Parameter Voltage in Part R127 Old= New=2W
+Change Value of Parameter DISTRIBUTOR # in Part R128 Old=CSRN2512FTR100TR-ND New=CSRN2512FKR200TR-ND
+Change Value of Parameter MANUFACTURER # in Part R128 Old= New=CSRN2512FKR200
+Change Value of Parameter PART in Part R128 Old= New=0.2R 1% 2512
+Change Value of Parameter Part Description in Part R128 Old= New=0.2 Ohm ±1% 2W Chip Resistor 2512 (6432 Metric) Current Sense Thick Film
+Change Value of Parameter Tolerance in Part R128 Old= New=1%
+Change Value of Parameter Voltage in Part R128 Old= New=2W
+Change Value of Parameter MANUFACTURER # in Part TP4 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP89 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP90 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP91 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP92 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP116 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP117 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP118 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP119 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP120 Old= New=NOTAPART-Testpoint
+Change Value of Parameter MANUFACTURER # in Part TP121 Old= New=NOTAPART-Testpoint

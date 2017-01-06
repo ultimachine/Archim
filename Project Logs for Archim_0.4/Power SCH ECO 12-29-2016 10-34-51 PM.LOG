@@ -1,0 +1,25 @@
+Change Value of Parameter DISTRIBUTOR # in Part C1 Old= New=490-4736-2-ND
+Change Value of Parameter DISTRIBUTOR in Part C1 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part C1 Old= New=Murata
+Change Value of Parameter PART in Part C1 Old= New=1uF 50V X7R 0805
+Change Value of Parameter Part Description in Part C1 Old= New=1µF ±10% 50V Ceramic Capacitor X7R 0805 (2012 Metric)
+Change Value of Parameter Tolerance in Part C1 Old= New=10%
+Change Value of Parameter Voltage in Part C1 Old= New=50V 
+Change Value of Parameter DISTRIBUTOR # in Part C7 Old= New=490-1320-2-ND
+Change Value of Parameter DISTRIBUTOR in Part C7 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part C7 Old= New=Murata
+Change Value of Parameter PART in Part C7 Old= New=1uF 6.3V X5R 0402
+Change Value of Parameter Part Description in Part C7 Old= New=1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)
+Change Value of Parameter Tolerance in Part C7 Old= New=10%
+Change Value of Parameter Voltage in Part C7 Old= New=6.3V 
+Change Value of Parameter Voltage in Part C16 Old=50VDC New=50V 
+Change Value of Parameter DISTRIBUTOR # in Part C34 Old= New=490-1320-2-ND
+Change Value of Parameter DISTRIBUTOR in Part C34 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part C34 Old= New=Murata
+Change Value of Parameter PART in Part C34 Old= New=1uF 6.3V X5R 0402
+Change Value of Parameter Part Description in Part C34 Old= New=1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)
+Change Value of Parameter Tolerance in Part C34 Old= New=10%
+Change Value of Parameter Voltage in Part C34 Old= New=6.3V 
+Change Value of Parameter Voltage in Part C38 Old=50VDC New=50V 
+Change Value of Parameter Voltage in Part C93 Old=50VDC New=50V 
+Change Value of Parameter MANUFACTURER # in Part R13 Old=CRCW0402200KFKED New=RC0402FR-0724RL

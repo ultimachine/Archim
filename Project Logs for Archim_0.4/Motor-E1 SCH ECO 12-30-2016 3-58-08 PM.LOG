@@ -1,0 +1,43 @@
+Change Value of Parameter DISTRIBUTOR # in Part C156 Old= New=493-2203-2-ND
+Change Value of Parameter DISTRIBUTOR in Part C156 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part C156 Old= New=Nichicon
+Change Value of Parameter PART in Part C156 Old= New=100uF 35V SMD Al-El 
+Change Value of Parameter Part Description in Part C156 Old= New=100µF 35V Aluminum Capacitors Radial, Can - SMD 1000 Hrs @ 105°C
+Change Value of Parameter Tolerance in Part C156 Old= New=20%
+Change Value of Parameter Voltage in Part C156 Old= New=35V
+Change Value of Parameter PART in Part R103 Old= New=100k 1% 0402
+Change Value of Parameter Part Description in Part R103 Old= New=100k Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film
+Change Value of Parameter Tolerance in Part R103 Old= New=1%
+Change Value of Parameter Voltage in Part R103 Old= New=1/16W
+Change Value of Parameter DISTRIBUTOR # in Part TVS13 Old= New=SMF30A-E3-08GITR-ND
+Change Value of Parameter DISTRIBUTOR in Part TVS13 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part TVS13 Old= New=Vishay  
+Change Value of Parameter PART in Part TVS13 Old= New=TVS Diode 48.4VC
+Change Value of Parameter Part Description in Part TVS13 Old= New=TVS DIODE 30VWM 48.4VC SMF
+Change Value of Parameter Tolerance in Part TVS13 Old= New=-NA-
+Change Value of Parameter VALUE in Part TVS13 Old=30V New=-NA-
+Change Value of Parameter Voltage in Part TVS13 Old= New=30Vrs 48.4Vc
+Change Value of Parameter DISTRIBUTOR # in Part TVS14 Old= New=SMF30A-E3-08GITR-ND
+Change Value of Parameter DISTRIBUTOR in Part TVS14 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part TVS14 Old= New=Vishay  
+Change Value of Parameter PART in Part TVS14 Old= New=TVS Diode 48.4VC
+Change Value of Parameter Part Description in Part TVS14 Old= New=TVS DIODE 30VWM 48.4VC SMF
+Change Value of Parameter Tolerance in Part TVS14 Old= New=-NA-
+Change Value of Parameter VALUE in Part TVS14 Old=30V New=-NA-
+Change Value of Parameter Voltage in Part TVS14 Old= New=30Vrs 48.4Vc
+Change Value of Parameter DISTRIBUTOR # in Part TVS15 Old= New=SMF30A-E3-08GITR-ND
+Change Value of Parameter DISTRIBUTOR in Part TVS15 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part TVS15 Old= New=Vishay  
+Change Value of Parameter PART in Part TVS15 Old= New=TVS Diode 48.4VC
+Change Value of Parameter Part Description in Part TVS15 Old= New=TVS DIODE 30VWM 48.4VC SMF
+Change Value of Parameter Tolerance in Part TVS15 Old= New=-NA-
+Change Value of Parameter VALUE in Part TVS15 Old=30V New=-NA-
+Change Value of Parameter Voltage in Part TVS15 Old= New=30Vrs 48.4Vc
+Change Value of Parameter DISTRIBUTOR # in Part TVS16 Old= New=SMF30A-E3-08GITR-ND
+Change Value of Parameter DISTRIBUTOR in Part TVS16 Old= New=Digikey
+Change Value of Parameter Manufacturer in Part TVS16 Old= New=Vishay  
+Change Value of Parameter PART in Part TVS16 Old= New=TVS Diode 48.4VC
+Change Value of Parameter Part Description in Part TVS16 Old= New=TVS DIODE 30VWM 48.4VC SMF
+Change Value of Parameter Tolerance in Part TVS16 Old= New=-NA-
+Change Value of Parameter VALUE in Part TVS16 Old=30V New=-NA-
+Change Value of Parameter Voltage in Part TVS16 Old= New=30Vrs 48.4Vc

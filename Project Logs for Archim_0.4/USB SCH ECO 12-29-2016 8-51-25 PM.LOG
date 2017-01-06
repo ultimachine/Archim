@@ -1,0 +1,8 @@
+Removed Parameter Digilkey #:1276-3432-1-ND from Part R51
+Removed Parameter Mounting Type:SMT 0402 from Part C43
+Removed Parameter Mounting Type:SMT 0402 from Part C49
+Removed Parameter Mounting Type:SMT 0402 from Part C77
+Removed Parameter PackageReference:0402 from Part C43
+Removed Parameter PackageReference:0402 from Part C49
+Removed Parameter PackageReference:0402 from Part C77
+Added Parameter Digikey #=1276-3432-1-ND to Part R51

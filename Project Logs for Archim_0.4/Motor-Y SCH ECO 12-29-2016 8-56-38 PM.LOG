@@ -1,0 +1,20 @@
+Removed Parameter Digikey #:490-7763-1-ND from Part C150
+Removed Parameter Digikey #:490-7763-1-ND from Part C151
+Removed Parameter Digikey #:490-7763-1-ND from Part C153
+Removed Parameter Digikey #:1276-3432-1-ND from Part R119
+Removed Parameter Digikey #:CSRN2512FTR100TR-ND from Part R123
+Removed Parameter Digikey #:CSRN2512FTR100TR-ND from Part R124
+Removed Parameter Manufacture Part #:UWT1V101MCL1GS from Part C154
+Change Value of Parameter MANUFACTURER # in Part C154 Old= New=UWT1V101MCL1GS
+Added Parameter DISTRIBUTOR #=490-7763-1-ND to Part C150
+Added Parameter DISTRIBUTOR #=490-7763-1-ND to Part C151
+Added Parameter DISTRIBUTOR #=490-7763-1-ND to Part C153
+Added Parameter DISTRIBUTOR #=1276-3432-1-ND to Part R119
+Added Parameter DISTRIBUTOR #=CSRN2512FTR100TR-ND to Part R123
+Added Parameter DISTRIBUTOR #=CSRN2512FTR100TR-ND to Part R124
+Added Parameter DISTRIBUTOR=Digikey to Part C150
+Added Parameter DISTRIBUTOR=Digikey to Part C151
+Added Parameter DISTRIBUTOR=Digikey to Part C153
+Added Parameter DISTRIBUTOR=Digikey to Part R119
+Added Parameter DISTRIBUTOR=Digikey to Part R123
+Added Parameter DISTRIBUTOR=Digikey to Part R124

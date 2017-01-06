@@ -1,0 +1,12 @@
+Removed Parameter Component Type: from Part C43
+Removed Parameter Component Type: from Part C49
+Removed Parameter Component Type: from Part C77
+Removed Parameter Datasheet: from Part C43
+Removed Parameter Datasheet: from Part C49
+Removed Parameter Datasheet: from Part C77
+Removed Parameter MFR:Murata from Part C43
+Removed Parameter MFR:Murata from Part C77
+Removed Parameter MFR:Samsung from Part C49
+Change Value of Parameter Manufacturer in Part C43 Old= New=Murata
+Change Value of Parameter Manufacturer in Part C49 Old= New=Samsung
+Change Value of Parameter Manufacturer in Part C77 Old= New=Murata

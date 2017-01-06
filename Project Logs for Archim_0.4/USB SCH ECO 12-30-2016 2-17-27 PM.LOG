@@ -1,0 +1,10 @@
+Change Value of Parameter PART in Part C43 Old= New=10nF 50V X7R 0402
+Change Value of Parameter Part Description in Part C43 Old=CAP CER 10000PF 50V X7R 0402 New=10000pF ±5% 50V Ceramic Capacitor X7R 0402 (1005 Metric)
+Change Value of Parameter Tolerance in Part C43 Old=10% New=5%
+Change Value of Parameter Value in Part C43 Old=0.01uF 50V New=10nF
+Change Value of Parameter Voltage in Part C43 Old=6.3VDC New=50V
+Change Value of Parameter PART in Part C77 Old= New=10nF 50V X7R 0402
+Change Value of Parameter Part Description in Part C77 Old=CAP CER 10000PF 50V X7R 0402 New=10000pF ±5% 50V Ceramic Capacitor X7R 0402 (1005 Metric)
+Change Value of Parameter Tolerance in Part C77 Old=10% New=5%
+Change Value of Parameter Value in Part C77 Old=0.01uF 50V New=10nF
+Change Value of Parameter Voltage in Part C77 Old=6.3VDC New=50V
