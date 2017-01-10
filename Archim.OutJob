@@ -21,7 +21,7 @@ TargetOutputMedium=BoardFab
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=PDF-XChange 4.0
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -311,16 +311,68 @@ OutputName12=Test Point Report
 OutputCategory12=Assembly
 OutputDocumentPath12=
 OutputVariantName12=
-OutputEnabled12=1
+OutputEnabled12=0
 OutputEnabled12_OutputMedium1=0
 OutputEnabled12_OutputMedium2=0
-OutputEnabled12_OutputMedium3=1
+OutputEnabled12_OutputMedium3=0
 OutputEnabled12_OutputMedium4=0
 OutputEnabled12_OutputMedium5=0
 OutputEnabled12_OutputMedium6=0
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
 Configuration12_Item1=AssyAdjacencyDistance=250000|AssyGenerateCSVFormat=True|AssyGenerateIPCFormat=False|AssyGenerateSpreadSheetFormat=False|AssyGenerateTextFormat=False|AssyOriginPosition=Relative|AssyOutlineLayer=56|AssyOutputAdjancencies=False|AssyOutputBoardOutline=False|AssyOutputTraces=False|AssyReportBottomLayerTestpoints=True|AssyReportTopLayerTestpoints=False|AssyUnits=Imperial|Record=TestPointView
+OutputType13=BOM_PartType
+OutputName13=Assembly BOM Grouped
+OutputCategory13=Report
+OutputDocumentPath13=
+OutputVariantName13=
+OutputEnabled13=0
+OutputEnabled13_OutputMedium1=0
+OutputEnabled13_OutputMedium2=0
+OutputEnabled13_OutputMedium3=0
+OutputEnabled13_OutputMedium4=0
+OutputEnabled13_OutputMedium5=0
+OutputEnabled13_OutputMedium6=0
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration13_Name1=ColumnNameFormat
+Configuration13_Item1=CaptionAsName
+Configuration13_Name2=Filter
+Configuration13_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration13_Name3=General
+Configuration13_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1588|FormHeight=842|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration13_Name4=GroupOrder
+Configuration13_Item4=DNI=True|MANUFACTURER #=True
+Configuration13_Name5=SortOrder
+Configuration13_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration13_Name6=VisibleOrder
+Configuration13_Item6=Designator=100|DISTRIBUTOR=100|DISTRIBUTOR #=100|MANUFACTURER=100|MANUFACTURER #=100|PART=100|Quantity=100|DNI=100|Comment=100|Description=100|PART DESCRIPTION=100|VALUE=100|TOLERANCE=100|EE_SPEC=100
+OutputType14=BOM_PartType
+OutputName14=Assembly BOM Single
+OutputCategory14=Report
+OutputDocumentPath14=
+OutputVariantName14=
+OutputEnabled14=1
+OutputEnabled14_OutputMedium1=0
+OutputEnabled14_OutputMedium2=0
+OutputEnabled14_OutputMedium3=1
+OutputEnabled14_OutputMedium4=0
+OutputEnabled14_OutputMedium5=0
+OutputEnabled14_OutputMedium6=0
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration14_Name1=ColumnNameFormat
+Configuration14_Item1=CaptionAsName
+Configuration14_Name2=Filter
+Configuration14_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration14_Name3=General
+Configuration14_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1584|FormHeight=842|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration14_Name4=GroupOrder
+Configuration14_Item4=
+Configuration14_Name5=SortOrder
+Configuration14_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration14_Name6=VisibleOrder
+Configuration14_Item6=Designator=100|DISTRIBUTOR=100|DISTRIBUTOR #=100|MANUFACTURER=100|MANUFACTURER #=100|PART=100|Quantity=100|DNI=100|Comment=100|Description=100|PART DESCRIPTION=100|VALUE=100|TOLERANCE=100|EE_SPEC=100
 
 [PublishSettings]
 OutputFilePath2=C:\Users\domotechinc\Desktop\SYNC\UltiMachine\Archim\PCB\Project Outputs for Archim_0.4\Archim_0.4b_VariantName_VarRevNo.PDF
@@ -348,7 +400,9 @@ MarkPortsId2=1
 GenerateTOC2=1
 ShowComponentParameters2=1
 GlobalBookmarks2=1
-OutputFilePath3=C:\Users\domotechinc\Desktop\SYNC\UltiMachine\Archim\PCB\Project Outputs for Archim_0.4\
+PDFACompliance2=Disabled
+PDFVersion2=Default
+OutputFilePath3=C:\Users\Aaron\Documents\Archim\Project Outputs for Archim_0.4\
 ReleaseManaged3=0
 OutputBasePath3=Project Outputs for Archim_0.4\
 OutputPathMedia3=
@@ -423,6 +477,8 @@ MarkPortsId5=1
 GenerateTOC5=1
 ShowComponentParameters5=1
 GlobalBookmarks5=0
+PDFACompliance5=Disabled
+PDFVersion5=Default
 OutputFilePath6=C:\Users\johnny\Documents\AMBIT\./ProjectOutputs\
 ReleaseManaged6=0
 OutputBasePath6=./ProjectOutputs\
@@ -440,7 +496,7 @@ OpenOutput6=1
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\domotechinc\Desktop\SYNC\UltiMachine\Archim\PCB\Project Outputs for Archim_0.4\Archim_0.4b_VariantName_VarRevNo.PDF
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\domotechinc\Desktop\SYNC\UltiMachine\Archim\PCB\Project Outputs for Archim_0.4\
+RelativeOutputPath3=C:\Users\Aaron\Documents\Archim\Project Outputs for Archim_0.4\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

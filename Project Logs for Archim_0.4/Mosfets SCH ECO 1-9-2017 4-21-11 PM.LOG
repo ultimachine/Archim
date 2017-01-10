@@ -1,0 +1,411 @@
+Change Value of Parameter EE_SPEC in Part C8 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C8 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C8 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C8 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C9 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C9 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C9 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C9 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C10 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C10 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C10 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C10 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C11 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C11 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C11 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C11 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C14 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C14 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C14 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C14 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C17 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C17 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C17 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C17 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C18 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C18 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C18 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C18 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C19 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C19 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C19 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C19 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C20 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C20 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C20 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C20 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C21 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C21 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C21 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C21 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C22 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C22 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C22 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C22 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C23 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C23 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C23 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C23 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part C31 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part C31 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part C31 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part C31 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part D4 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D4 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D4 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D4 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D4 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D6 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D6 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D6 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D6 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D6 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D7 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D7 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D7 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D7 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D7 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D8 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D8 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D8 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D8 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D8 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D9 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D9 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D9 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D9 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part D10 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D10 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D10 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D10 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D10 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D11 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D11 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D11 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D11 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D11 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D12 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D12 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D12 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D12 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D12 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D14 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D14 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D14 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D14 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D14 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D15 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D15 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D15 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D15 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D15 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D16 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D16 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D16 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D16 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part D17 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D17 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D17 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D17 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part D18 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D18 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D18 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D18 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part D19 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D19 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D19 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D19 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D19 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D20 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D20 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D20 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D20 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part D21 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D21 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D21 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D21 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D21 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part D30 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D30 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D30 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D30 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part D31 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part D31 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part D31 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part D31 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part D31 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part J1 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part J1 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part J1 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part J1 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part J1 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part J2 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part J2 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part J2 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part J2 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part J2 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part J2 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part J2 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part J2 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part J2 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part J2 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part Q1 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part Q1 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part Q1 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part Q1 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part Q1 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part Q2 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part Q2 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part Q2 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part Q2 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part Q2 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part Q3 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part Q3 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part Q3 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part Q3 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part Q3 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part Q4 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part Q4 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part Q4 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part Q4 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part Q4 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part Q5 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part Q5 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part Q5 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part Q5 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part Q5 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part Q6 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part Q6 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part Q6 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part Q6 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part Q6 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part R6 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R6 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R6 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R6 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R7 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R7 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R7 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R7 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R8 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R8 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R8 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R8 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R9 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R9 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R9 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R9 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R12 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R12 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R12 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R12 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R14 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R14 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R14 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R14 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R15 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R15 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R15 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R15 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R16 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R16 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R16 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R16 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R17 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R17 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R17 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R17 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R18 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R18 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R18 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R18 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R20 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R20 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R20 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R20 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R21 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R21 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R21 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R21 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R24 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R24 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R24 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R24 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R25 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R25 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R25 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R25 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R26 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R26 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R26 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R26 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R27 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R27 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R27 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R27 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R28 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R28 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R28 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R28 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R29 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R29 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R29 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R29 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R30 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R30 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R30 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R30 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R39 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R39 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R39 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R39 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R52 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R52 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R52 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R52 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R53 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R53 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R53 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R53 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R54 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R54 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R54 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R54 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part R55 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part R55 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part R55 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part R55 Old=Tolerance New=TOLERANCE
+Change Value of Parameter EE_SPEC in Part TP33 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP33 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP33 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP33 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP33 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP34 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP34 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP34 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP34 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP34 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP35 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP35 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP35 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP35 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP35 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP37 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP37 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP37 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP37 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP37 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP38 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP38 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP38 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP38 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP38 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP39 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP39 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP39 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP39 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP39 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP40 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP40 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP40 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP40 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP40 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP41 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP41 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP41 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP41 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP41 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP42 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP42 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP42 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP42 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP42 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP58 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP58 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP58 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP58 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP58 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP59 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP59 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP59 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP59 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP59 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP62 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP62 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP62 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP62 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP62 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP63 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP63 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP63 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP63 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP63 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP64 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP64 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP64 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP64 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP64 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP65 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP65 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP65 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP65 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP65 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part TP66 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part TP66 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part TP66 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part TP66 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part TP66 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U2 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U2 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U2 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U2 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U2 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U3 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U3 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U3 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U3 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U3 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U4 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U4 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U4 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U4 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U4 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U5 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U5 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U5 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U5 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U5 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U6 Old=EE Spec New=EE_SPEC
+Change Value of Parameter PART DESCRIPTION in Part U6 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U6 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U6 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U7 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U7 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U7 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U7 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U7 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U10 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U10 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U10 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U10 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U10 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U10 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U10 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U10 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U10 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U10 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U10 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U10 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U10 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U10 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U10 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U10 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U10 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U10 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U10 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U10 Old=Value New=VALUE
+Change Value of Parameter EE_SPEC in Part U10 Old=EE Spec New=EE_SPEC
+Change Value of Parameter MANUFACTURER in Part U10 Old=Manufacturer New=MANUFACTURER
+Change Value of Parameter PART DESCRIPTION in Part U10 Old=Part Description New=PART DESCRIPTION
+Change Value of Parameter TOLERANCE in Part U10 Old=Tolerance New=TOLERANCE
+Change Value of Parameter VALUE in Part U10 Old=Value New=VALUE
