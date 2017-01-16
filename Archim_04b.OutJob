@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Archim_04b.OutJob
 Description=
-TargetOutputMedium=New Folder Structure
+TargetOutputMedium=PDF
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -46,16 +46,16 @@ OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
-OutputEnabled1_OutputMedium2=1
+OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=0
 OutputEnabled1_OutputMedium4=0
 OutputEnabled1_OutputMedium5=0
 OutputEnabled1_OutputMedium6=0
 OutputEnabled1_OutputMedium7=0
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.99|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.99|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Tabloid|PaperIndex=3
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
+Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType2=PCB Print
 OutputName2=PCB Prints
 OutputCategory2=Documentation
@@ -70,7 +70,7 @@ OutputEnabled2_OutputMedium5=1
 OutputEnabled2_OutputMedium6=0
 OutputEnabled2_OutputMedium7=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.85|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Tabloid|PaperIndex=3
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.85|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Tabloid|PaperIndex=3
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration2_Name2=OutputConfigurationParameter2
@@ -234,7 +234,7 @@ OutputName8=Generates pick and place files
 OutputCategory8=Assembly
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -389,9 +389,43 @@ Configuration14_Name5=SortOrder
 Configuration14_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration14_Name6=VisibleOrder
 Configuration14_Item6=Designator=100|DISTRIBUTOR=100|DISTRIBUTOR #=100|MANUFACTURER=100|MANUFACTURER #=100|PART=100|Quantity=100|DNI=100|Comment=100|Description=100|PART DESCRIPTION=100|VALUE=100|TOLERANCE=100|EE_SPEC=100
+OutputType15=PCB Print
+OutputName15=Designators
+OutputCategory15=Documentation
+OutputDocumentPath15=
+OutputVariantName15=
+OutputEnabled15=1
+OutputEnabled15_OutputMedium1=0
+OutputEnabled15_OutputMedium2=1
+OutputEnabled15_OutputMedium3=0
+OutputEnabled15_OutputMedium4=0
+OutputEnabled15_OutputMedium5=2
+OutputEnabled15_OutputMedium6=0
+OutputEnabled15_OutputMedium7=0
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.85|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Tabloid|PaperIndex=3
+Configuration15_Name1=OutputConfigurationParameter1
+Configuration15_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration15_Name2=OutputConfigurationParameter2
+Configuration15_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top Designator|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration15_Name3=OutputConfigurationParameter3
+Configuration15_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration15_Name4=OutputConfigurationParameter4
+Configuration15_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration15_Name5=OutputConfigurationParameter5
+Configuration15_Item5=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=True|Name=Bottom Designator|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=True
+Configuration15_Name6=OutputConfigurationParameter6
+Configuration15_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration15_Name7=OutputConfigurationParameter7
+Configuration15_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration15_Name8=OutputConfigurationParameter8
+Configuration15_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Hidden|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Hidden|FVia=Full|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration15_Name9=OutputConfigurationParameter9
+Configuration15_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+PcbPrintPreferences15=
 
 [PublishSettings]
-OutputFilePath2=C:\Users\domotechinc\Desktop\SYNC\UltiMachine\Archim\PCB\Project Outputs for Archim_0.4\Archim_0.4b_VariantName_VarRevNo.PDF
+OutputFilePath2=C:\Users\Aaron\Documents\Archim\Project Outputs for Archim_0.4\
 ReleaseManaged2=0
 OutputBasePath2=Project Outputs for Archim_0.4\
 OutputPathMedia2=
@@ -399,7 +433,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Archim.PDF
+OutputFileName2=Archim_04b.PDF
 OutputFileNameMulti2==ProjectTitle+_+projectVersion+_+VariantName+_+VarRevNo
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2==ProjectTitle+_+projectVersion+_+VariantName+_+VarRevNo
@@ -523,7 +557,7 @@ OutputFileNameSpecial7=
 OpenOutput7=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\domotechinc\Desktop\SYNC\UltiMachine\Archim\PCB\Project Outputs for Archim_0.4\Archim_0.4b_VariantName_VarRevNo.PDF
+RelativeOutputPath2=C:\Users\Aaron\Documents\Archim\Project Outputs for Archim_0.4\
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\Aaron\Documents\Archim\Project Outputs for Archim_0.4\
 OpenOutputs3=1
