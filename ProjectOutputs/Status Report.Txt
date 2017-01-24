@@ -1,15 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 3:01:19 PM On 10/10/2016
+Start Output Generation At 4:00:49 PM On 1/24/2017
 
-Output: Test Point Report
-Type  : Test Points
-From  : PCB Document [Archim.PcbDoc]
-   Generated File[Archim_0.3b.txt]
-   Generated File[Archim_0.3b.csv]
+Output: Assembly BOM Single
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Archim_0.4.PrjPcb]
+   Generated File[Archim_0.4b.xls]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 3:01:21 PM On 10/10/2016
+Finished Output Generation At 4:00:49 PM On 1/24/2017
