@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=C24 Old Footprint=C0805 New Footprint=C0402
+Change Component Comment : Designator=C24 Old Comment=10uF New Comment=1uF
+Change component parameters: Designator = "U6"; Footprint = "SOT26P285X140-6L"; UniqueID = "\RSCEFUTS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "ZXGD3009E6TADITR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "40V 2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "ZXGD3009E6TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "IC GATE DRVR IGBT/MOSFET SOT23-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "Low-Side Gate Driver IC Non-Inverting SOT-26"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "-NA-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "ZXGD3009E6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "C0402"; UniqueID = "\NDDSQENG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DISTRIBUTOR"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTRIBUTOR #"; Value = "490-1320-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EE_SPEC"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFACTURER #"; Value = "GRM155R60J105KE19D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART"; Value = "1uF 6.3V X5R 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART DESCRIPTION"; Value = "1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "1uF"; VariantName = "[No Variations]"
