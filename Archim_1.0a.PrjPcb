@@ -310,6 +310,10 @@ GenerateClassCluster=0
 DocumentUniqueId=FDRWYCEI
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Archim_1.0a\Board Information - Archim.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Archim_1.0a\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
@@ -318,16 +322,16 @@ Name=projectDesigner
 Value=AWS
 
 [Parameter2]
-Name=projectVersion
-Value=1.0a
+Name=projectDocumentRevision
+Value=0.1a
 
 [Parameter3]
 Name=projectTitle
 Value=Archim
 
 [Parameter4]
-Name=projectDocumentRevision
-Value=0.1a
+Name=projectVersion
+Value=1.0a
 
 [Configuration1]
 Name=Sources

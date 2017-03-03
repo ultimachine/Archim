@@ -1,0 +1,152 @@
+Board Information Report
+Filename     : C:\Users\Aaron\Documents\Archim PCB\Panels\Archim_Panel_1.0a.PcbDoc
+Date         : 3/2/2017
+Time         : 6:56:52 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 4606.1milsx8609.741mils
+    Components on board, 8
+count : 2
+
+Routing Information
+    Routing completion, NAN%
+    Connections, 0
+    Connections routed, 0
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 4, 4, 0, 16, 3, 0, 6, 0
+    Top GND, 0, 0, 0, 4, 3, 0, 1, 0
+    Power Plane, 0, 0, 0, 4, 3, 0, 1, 0
+    Mid1, 0, 0, 0, 0, 3, 0, 0, 0
+    Bot GND, 0, 0, 0, 4, 3, 0, 1, 0
+    Bottom Layer, 4, 4, 0, 16, 3, 0, 6, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 2, 0, 0, 0, 415, 109, 0, 0, 0
+    Mechanical 3, 0, 0, 0, 0, 2, 0, 0, 0
+    Mechanical 6, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 8, 0, 0, 0, 0, 0, 0, 0, 16
+    Mechanical 9, 0, 0, 0, 0, 2, 0, 0, 0
+    Mechanical 12, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 0, 0, 0, 0, 0
+    Panel Dimension, 0, 0, 0, 4, 0, 0, 0, 0
+    V-Score, 0, 0, 0, 5, 0, 0, 0, 0
+    Mechanical 16, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Des, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 2, 0, 0, 0
+    Keep-Out Layer, 32, 0, 0, 32, 0, 0, 8, 0
+    Drill Drawing, 0, 0, 0, 10, 58, 0, 0, 0
+    Multi-Layer, 0, 4, 0, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 2, 0, 0, 0
+    Top Overlay, 0, 0, 0, 0, 10, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 2, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 2, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 10, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+count : 29
+
+Drill Pairs, Vias
+count : 0
+
+Non-Plated Hole Size, Pads, Vias
+    118.11mils, 4, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mils, 8, 0
+count : 1
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -177.165mils, 4
+count : 1
+
+Mid Layer Annular Ring Size, Count
+    -177.165mils, 4
+count : 1
+
+Bottom Layer Annular Ring Size, Count
+    -177.165mils, 4
+count : 1
+
+Pad Solder Mask, Count
+    -4.016mils, 4
+    20mils, 8
+count : 2
+
+Pad Paste Mask, Count
+    -3897.638mils, 4
+    0mils, 8
+count : 2
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 12
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 12
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 12
+count : 1
+
+Pad Relief Entries, Count
+    4, 12
+count : 1
+
+Via Solder Mask, Count
+count : 0
+
+Track Width, Count
+    1mils, 300
+    10mils, 89
+    15mils, 109
+    40mils, 8
+    120mils, 4
+count : 5
+
+Arc Line Width, Count
+    7mils, 8
+    10mils, 32
+count : 2
+
+Arc Radius, Count
+    7.874mils, 32
+    66.929mils, 8
+count : 2
+
+Arc Degrees, Count
+    90, 32
+    360, 8
+count : 2
+
+Text Height, Count
+    60mils, 151
+    66.667mils, 10
+    72mils, 5
+    75mils, 36
+    80mils, 14
+    90mils, 1
+count : 6
+
+Text Width, Count
+    6mils, 2
+    8mils, 26
+    10mils, 184
+    16mils, 5
+count : 4

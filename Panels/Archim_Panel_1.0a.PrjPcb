@@ -88,6 +88,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Archim_Panel_1.0a\Board Information - Archim_Panel_1.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjectTitle
 Value=Archim_Panel
