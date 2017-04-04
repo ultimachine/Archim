@@ -1,15 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 1:02:10 PM On 3/13/2017
+Start Output Generation At 3:59:38 PM On 3/30/2017
 
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of PCB Document [Archim.PcbDoc]
+Output: Assembly BOM Grouped-Tab
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Archim_1.0a.PrjPcb]
    Generated File[Archim_1.0a.txt]
-   Generated File[Archim_1.0a.csv]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 1:02:18 PM On 3/13/2017
+Finished Output Generation At 3:59:39 PM On 3/30/2017
