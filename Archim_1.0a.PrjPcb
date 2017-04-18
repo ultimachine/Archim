@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Archim_1.0a
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -318,20 +318,20 @@ DocumentPath=Project Outputs for Archim_1.0a\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectDesigner
-Value=AWS
+Name=projectVersion
+Value=1.0a
 
 [Parameter2]
-Name=projectDocumentRevision
-Value=0.1a
-
-[Parameter3]
 Name=projectTitle
 Value=Archim
 
-[Parameter4]
-Name=projectVersion
+[Parameter3]
+Name=projectDocumentRevision
 Value=1.0a
+
+[Parameter4]
+Name=projectDesigner
+Value=AWS
 
 [Configuration1]
 Name=Sources
@@ -342,6 +342,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for Archim_1.0a
 
 [OutputGroup1]
 Name=Netlist Outputs
