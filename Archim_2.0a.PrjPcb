@@ -667,6 +667,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Archim_2.0a\Design Rule Check - Archim.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=projectDesigner
 Value=AWS
