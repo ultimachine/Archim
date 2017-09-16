@@ -672,20 +672,20 @@ DocumentPath=Project Outputs for Archim_2.0a\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectDesigner
-Value=AWS
-
-[Parameter2]
-Name=projectDocumentRevision
+Name=projectVersion
 Value=2.0a
 
-[Parameter3]
+[Parameter2]
 Name=projectTitle
 Value=Archim
 
-[Parameter4]
-Name=projectVersion
+[Parameter3]
+Name=projectDocumentRevision
 Value=2.0a
+
+[Parameter4]
+Name=projectDesigner
+Value=AWS
 
 [Configuration1]
 Name=Sources
