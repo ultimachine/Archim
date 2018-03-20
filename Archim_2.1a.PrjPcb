@@ -308,7 +308,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QIDAURLF
 
 [Document17]
 DocumentPath=..\Libs\Connectors.SchLib
@@ -668,24 +668,28 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Archim_2.0a\Design Rule Check - Archim.html
+DocumentPath=Project Outputs for Archim\ExportSTEP\Archim.step
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Archim_2.1a\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectVersion
-Value=2.0a
+Name=projectDesigner
+Value=AWS
 
 [Parameter2]
-Name=projectTitle
-Value=Archim
-
-[Parameter3]
 Name=projectDocumentRevision
 Value=2.0a
 
+[Parameter3]
+Name=projectTitle
+Value=Archim
+
 [Parameter4]
-Name=projectDesigner
-Value=AWS
+Name=projectVersion
+Value=2.0a
 
 [Configuration1]
 Name=Sources
@@ -1627,6 +1631,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNNNNNWW
