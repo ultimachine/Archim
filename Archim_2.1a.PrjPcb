@@ -276,25 +276,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Archim_2.1a\Design Rule Check - Archim.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\altium_libs\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=projectVersion
-Value=2.0a
+Name=projectDesigner
+Value=AWS
 
 [Parameter2]
-Name=projectTitle
-Value=Archim
-
-[Parameter3]
 Name=projectDocumentRevision
 Value=2.0a
 
+[Parameter3]
+Name=projectTitle
+Value=Archim
+
 [Parameter4]
-Name=projectDesigner
-Value=AWS
+Name=projectVersion
+Value=2.0a
 
 [Configuration1]
 Name=Sources
