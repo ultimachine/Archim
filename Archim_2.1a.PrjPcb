@@ -276,28 +276,128 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs\Archim2_2.1a.txt
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs\Archim2_2.1a_BOM.txt
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs\Archim.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs\Archim.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs\Archim.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs\Archim.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs\Archim.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs\Archim.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs\Archim.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs\Archim.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs\Archim.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs\Archim.GM9
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs\Archim.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs\Archim.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs\Archim.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs\Archim.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs\Archim.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs\Archim.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs\Archim.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs\Archim.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs\Archim.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs\Archim.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs\ExportSTEP\Archim.step
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs\Archim.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Archim_2.1a\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
-[SearchPath1]
-Path=..\altium_libs\*.*
-IncludeSubFolders=1
+[GeneratedDocument26]
+DocumentPath=Project Outputs\Pick Place for Archim.csv
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs\Pick Place for Archim.txt
+DItemRevisionGUID=
 
 [Parameter1]
-Name=projectdocumentNumber
-Value=.
-
-[Parameter2]
 Name=projectVersion
 Value=2.1a
 
-[Parameter3]
+[Parameter2]
 Name=projectTitle
 Value=Archim2
 
-[Parameter4]
+[Parameter3]
 Name=projectDocumentRevision
 Value=2.1
+
+[Parameter4]
+Name=projectdocumentNumber
+Value=.
 
 [Parameter5]
 Name=projectDesigner
