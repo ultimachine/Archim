@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Archim_Panel.OutJob
+Name=
 Description=
 TargetOutputMedium=BoardFab
 VariantName=[No Variations]
@@ -137,9 +137,9 @@ Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Aaron\Documents\Archim PCB\Panels\Outputs for Archim_2.0a\
+OutputFilePath2=C:\Users\Johnny\Documents\Projects\Archim\Panels\Outputs for Archim_2.1a\
 ReleaseManaged2=0
-OutputBasePath2=Outputs for Archim_2.0a\
+OutputBasePath2=Outputs for Archim_2.1a\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=
@@ -165,7 +165,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Aaron\Documents\Archim PCB\Panels\Outputs for Archim_2.0a\
+RelativeOutputPath2=C:\Users\Johnny\Documents\Projects\Archim\Panels\Outputs for Archim_2.1a\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
