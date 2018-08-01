@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Archim_2.1a
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=TitlePage.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PMKPYQPI
-
-[Document2]
 DocumentPath=EndStops.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIFRWGJL
 
-[Document3]
+[Document2]
 DocumentPath=Microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKBATWSA
 
-[Document4]
+[Document3]
 DocumentPath=Mosfets.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPQOJMSI
 
-[Document5]
+[Document4]
 DocumentPath=Motor-E1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMAELBAU
 
-[Document6]
+[Document5]
 DocumentPath=Motor-E2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHVUDBML
 
-[Document7]
+[Document6]
 DocumentPath=Motor-X.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRQHFNII
 
-[Document8]
+[Document7]
 DocumentPath=Motor-Y.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQTBLVDD
 
-[Document9]
+[Document8]
 DocumentPath=Motor-Z.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSWOIWSX
 
-[Document10]
+[Document9]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWVHACAQ
 
-[Document11]
+[Document10]
 DocumentPath=Thermistors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JQJNHXFV
 
-[Document12]
+[Document11]
 DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWKQVBXH
 
-[Document13]
+[Document12]
 DocumentPath=Archim.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCICSCCT
 
-[Document14]
+[Document13]
 DocumentPath=Archim.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,110 +259,198 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs\Archim2_2.1a.txt
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs\Archim2_2.1a_BOM.txt
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs\Archim.DRR
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.G1
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs\Archim.EXTREP
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs\Archim.G1
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs\Archim.GBL
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs\Archim.GBO
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs\Archim.GBS
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs\Archim.GD1
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs\Archim.GG1
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs\Archim.GM3
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs\Archim.GM9
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs\Archim.GP1
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GP3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs\Archim.GP2
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs\Archim.GP3
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs\Archim.GTL
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs\Archim.GTO
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs\Archim.GTP
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs\Archim.GTS
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.REP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs\Archim.LDP
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs\Archim.REP
+DocumentPath=Project Outputs\ExportSTEP\Archim2_2.1a.step
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs\Archim.RUL
+DocumentPath=Project Outputs\Archim2_2.1a.txt
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs\ExportSTEP\Archim.step
+DocumentPath=Project Outputs\Gerber\Archim2_2.1a.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs\Archim.TXT
+DocumentPath=Project Outputs\Archim2_2.1a_BOM.txt
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Archim_2.1a\Design Rule Check - Archim.html
+DocumentPath=Project Outputs\Archim2_2.1a_PickPlace.csv
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs\Pick Place for Archim.csv
+DocumentPath=Project Outputs\Archim2_2.1a_PickPlace.txt
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Project Outputs\Archim.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs\Archim.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs\Archim.G1
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs\Archim.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs\Archim.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs\Archim.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs\Archim.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs\Archim.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs\Archim.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs\Archim.GM9
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs\Archim.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs\Archim.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs\Archim.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs\Archim.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs\Archim.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs\Archim.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs\Archim.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs\Archim.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs\ExportSTEP\Archim.step
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs\Archim.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Archim_2.1a\Design Rule Check - Archim.html
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs\Pick Place for Archim.csv
+DItemRevisionGUID=
+
+[GeneratedDocument49]
 DocumentPath=Project Outputs\Pick Place for Archim.txt
 DItemRevisionGUID=
 
@@ -414,7 +485,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Archim_2.1a
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -596,7 +667,9 @@ OutputName9=Schematic Prints
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.62|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
 OutputName10=SimView Prints
 OutputDocumentPath10=
