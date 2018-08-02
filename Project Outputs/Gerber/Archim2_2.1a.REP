@@ -2,98 +2,6 @@
 FileName = Archim2_2.1a.GBR
 AutoAperture = True
 *************************************************************
-Generating : BRD Outline
-      File : Archim2_2.1a.GM3
-
-    Adding Layer      : BRD Outline
-
-
-Used DCodes :
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Archim2_2.1a.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : Archim2_2.1a.GBL
 
@@ -109,23 +17,21 @@ Used DCodes :
     D18
     D19
     D21
-    D105
-    D179
-    D194
-    D195
+    D107
+    D181
     D196
-    D267
-    D268
+    D197
+    D198
+    D269
     D270
-    D271
+    D272
     D273
-    D274
     D275
+    D276
     D277
-    D278
-    D281
-    D289
-    D290
+    D279
+    D280
+    D283
     D291
     D292
     D293
@@ -139,12 +45,159 @@ Used DCodes :
     D301
     D302
     D303
-    D325
-    D329
-    D330
+    D304
+    D305
+    D327
     D331
     D332
     D333
+    D334
+    D335
+*************************************************************
+
+*************************************************************
+Generating : Dims
+      File : Archim2_2.1a.GM9
+
+    Adding Layer      : Dims
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Power Plane
+      File : Archim2_2.1a.GP2
+
+    Adding Layer      : Power Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D18
+    D279
+    D306
+    D307
+    D308
+    D309
+    D310
+    D311
+    D312
+    D313
+    D314
+    D315
+    D318
+    D319
+    D321
+    D322
+    D323
+    D324
+    D325
+    D326
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Archim2_2.1a.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D181
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D301
+    D336
+    D337
+    D338
+    D339
+    D340
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Archim2_2.1a.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D28
+    D341
+    D342
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Archim2_2.1a.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Archim2_2.1a.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
 *************************************************************
 
 *************************************************************
@@ -166,9 +219,7 @@ Used DCodes :
     D21
     D27
     D31
-    D179
-    D194
-    D195
+    D181
     D196
     D197
     D198
@@ -277,133 +328,19 @@ Used DCodes :
     D301
     D302
     D303
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Archim2_2.1a.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D17
-    D21
-    D23
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Power Plane
-      File : Archim2_2.1a.GP2
-
-    Adding Layer      : Power Plane
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D18
-    D277
     D304
     D305
-    D306
-    D307
-    D308
-    D309
-    D310
-    D311
-    D312
-    D313
-    D316
-    D317
-    D319
-    D320
-    D321
-    D322
-    D323
-    D324
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Archim2_2.1a.GTO
+Generating : BRD Outline
+      File : Archim2_2.1a.GM3
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : BRD Outline
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
     D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : Archim2_2.1a.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D28
-    D339
-    D340
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : Archim2_2.1a.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D28
-*************************************************************
-
-*************************************************************
-Generating : Dims
-      File : Archim2_2.1a.GM9
-
-    Adding Layer      : Dims
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -418,10 +355,8 @@ Generating : Bot GND
 Used DCodes :
     D15
     D18
-    D274
-    D277
-    D304
-    D305
+    D276
+    D279
     D306
     D307
     D308
@@ -437,6 +372,8 @@ Used DCodes :
     D318
     D319
     D320
+    D321
+    D322
 *************************************************************
 
 *************************************************************
@@ -451,8 +388,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D108
-    D109
     D110
     D111
     D112
@@ -537,6 +472,137 @@ Used DCodes :
     D191
     D192
     D193
+    D194
+    D195
+*************************************************************
+
+*************************************************************
+Generating : Top GND
+      File : Archim2_2.1a.GP1
+
+    Adding Layer      : Top GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D276
+    D306
+    D307
+    D308
+    D309
+    D310
+    D311
+    D312
+    D313
+    D314
+    D315
+    D316
+    D317
+    D318
+    D319
+    D320
+    D321
+    D322
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Archim2_2.1a.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Archim2_2.1a.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D17
+    D21
+    D23
+    D31
 *************************************************************
 
 *************************************************************
@@ -553,94 +619,30 @@ Used DCodes :
     D18
     D21
     D31
-    D267
-    D268
+    D269
     D270
-    D271
+    D272
     D273
-    D274
     D275
+    D276
     D277
-    D280
-    D289
-    D290
+    D279
+    D282
     D291
     D292
+    D293
     D294
     D295
     D297
-    D300
-    D301
+    D299
     D302
     D303
-    D325
-    D326
+    D304
+    D305
     D327
     D328
     D329
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Archim2_2.1a.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D179
-    D182
-    D183
-    D184
-    D185
-    D186
-    D187
-    D188
-    D189
-    D190
-    D191
-    D192
-    D193
-    D299
-    D334
-    D335
-    D336
-    D337
-    D338
-*************************************************************
-
-*************************************************************
-Generating : Top GND
-      File : Archim2_2.1a.GP1
-
-    Adding Layer      : Top GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D274
-    D304
-    D305
-    D306
-    D307
-    D308
-    D309
-    D310
-    D311
-    D312
-    D313
-    D314
-    D315
-    D316
-    D317
-    D318
-    D319
-    D320
+    D330
+    D331
 *************************************************************
 

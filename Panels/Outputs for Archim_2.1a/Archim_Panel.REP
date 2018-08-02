@@ -2,6 +2,40 @@
 FileName = Archim_Panel.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bot GND
+      File : Archim_Panel.GP3
+
+    Adding Layer      : Bot GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D89
+    D97
+    D102
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : Archim_Panel.GBL
 
@@ -58,40 +92,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bot GND
-      File : Archim_Panel.GP3
-
-    Adding Layer      : Bot GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D89
-    D97
-    D102
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D146
-    D147
-    D148
-*************************************************************
-
-*************************************************************
 Generating : Mid1
       File : Archim_Panel.G1
 
@@ -119,7 +119,7 @@ Used DCodes :
     D117
     D118
     D119
-    D121
+    D120
     D122
     D124
     D127
@@ -198,6 +198,378 @@ Used DCodes :
     D150
     D151
     D152
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Archim_Panel.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D87
+    D88
+    D89
+    D98
+    D101
+    D111
+    D114
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Archim_Panel.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D159
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+    D240
+    D241
+    D242
+    D243
+    D244
+    D245
+    D246
+    D247
+    D248
+    D249
+    D250
+    D251
+    D252
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Archim_Panel.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D84
+    D253
+    D254
+    D255
+    D256
+    D257
+    D258
+    D259
+    D260
+    D261
+    D262
+    D263
+    D264
+    D265
+    D266
+    D267
+    D268
+    D269
+    D270
+    D271
+    D272
+    D273
+    D274
+    D275
+    D276
+    D277
+    D278
+    D279
+    D280
+    D281
+    D282
+    D283
+    D284
+    D285
+    D286
+    D287
+    D288
+    D289
+    D290
+    D291
+    D292
+    D293
+    D294
+    D295
+    D296
+    D297
+    D298
+    D299
+    D300
+    D301
+    D302
+    D303
+    D304
+    D305
+    D306
+    D307
+    D308
+    D309
+    D310
+    D311
+    D312
+    D313
+    D314
+    D315
+    D316
+    D317
+    D318
+    D319
+    D320
+    D321
+    D322
+    D323
+    D324
+    D325
+    D326
+    D327
+    D328
+    D329
+    D330
+    D331
+    D332
+    D333
+    D334
+    D335
+    D336
+    D337
+    D338
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Archim_Panel.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D84
+    D126
+    D255
+    D327
+    D328
+    D329
+    D330
+    D331
+    D332
+    D333
+    D334
+    D335
+    D336
+    D337
+    D338
+    D339
+    D340
+    D341
+    D342
+    D343
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Archim_Panel.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D87
+    D88
+    D166
+    D169
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : Archim_Panel.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D12
+    D87
+    D88
+    D102
+    D165
+    D166
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : Archim_Panel.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D12
+    D166
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 9
+      File : Archim_Panel.GM9
+
+    Adding Layer      : Mechanical 9
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Panel Dimension
+      File : Archim_Panel.GM30
+
+    Adding Layer      : Panel Dimension
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : V-Score
+      File : Archim_Panel.GM31
+
+    Adding Layer      : V-Score
+
+
+Used DCodes :
+    D10
+    D12
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Archim_Panel.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D12
+    D99
+    D102
+    D173
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Archim_Panel.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D12
+    D173
 *************************************************************
 
 *************************************************************
@@ -331,375 +703,5 @@ Used DCodes :
     D128
     D129
     D130
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Archim_Panel.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D87
-    D88
-    D89
-    D98
-    D101
-    D111
-    D114
-    D163
-    D164
-    D165
-    D166
-    D167
-    D168
-    D169
-    D170
-    D171
-    D172
-    D173
-    D174
-    D175
-    D176
-    D177
-    D178
-    D179
-    D180
-    D181
-    D182
-    D183
-    D184
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Archim_Panel.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D159
-    D185
-    D186
-    D187
-    D188
-    D189
-    D190
-    D191
-    D192
-    D193
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-    D205
-    D206
-    D207
-    D208
-    D209
-    D210
-    D211
-    D212
-    D213
-    D214
-    D215
-    D216
-    D217
-    D218
-    D219
-    D220
-    D221
-    D222
-    D223
-    D224
-    D225
-    D226
-    D227
-    D228
-    D229
-    D230
-    D231
-    D232
-    D233
-    D234
-    D235
-    D236
-    D237
-    D238
-    D239
-    D240
-    D241
-    D242
-    D243
-    D244
-    D245
-    D246
-    D247
-    D248
-    D249
-    D250
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Archim_Panel.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D84
-    D251
-    D252
-    D253
-    D254
-    D255
-    D256
-    D257
-    D258
-    D259
-    D260
-    D261
-    D262
-    D263
-    D264
-    D265
-    D266
-    D267
-    D268
-    D269
-    D270
-    D271
-    D272
-    D273
-    D274
-    D275
-    D276
-    D277
-    D278
-    D279
-    D280
-    D281
-    D282
-    D283
-    D284
-    D285
-    D286
-    D287
-    D288
-    D289
-    D290
-    D291
-    D292
-    D293
-    D294
-    D295
-    D296
-    D297
-    D298
-    D299
-    D300
-    D301
-    D302
-    D303
-    D304
-    D305
-    D306
-    D307
-    D308
-    D309
-    D310
-    D311
-    D312
-    D313
-    D314
-    D315
-    D316
-    D317
-    D318
-    D319
-    D320
-    D321
-    D322
-    D323
-    D324
-    D325
-    D326
-    D327
-    D328
-    D329
-    D330
-    D331
-    D332
-    D333
-    D334
-    D335
-    D336
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Archim_Panel.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D84
-    D126
-    D253
-    D325
-    D326
-    D327
-    D328
-    D329
-    D330
-    D331
-    D332
-    D333
-    D334
-    D335
-    D336
-    D337
-    D338
-    D339
-    D340
-    D341
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Archim_Panel.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D87
-    D88
-    D166
-    D169
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 2
-      File : Archim_Panel.GM2
-
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-    D12
-    D87
-    D88
-    D102
-    D165
-    D166
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : Archim_Panel.GM3
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D12
-    D166
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 9
-      File : Archim_Panel.GM9
-
-    Adding Layer      : Mechanical 9
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Panel Dimension
-      File : Archim_Panel.GM30
-
-    Adding Layer      : Panel Dimension
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : V-Score
-      File : Archim_Panel.GM31
-
-    Adding Layer      : V-Score
-
-
-Used DCodes :
-    D10
-    D12
-    D87
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : Archim_Panel.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D12
-    D99
-    D102
-    D173
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : Archim_Panel.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D12
-    D173
 *************************************************************
 

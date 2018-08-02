@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Archim_2.1a
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -343,136 +343,44 @@ DocumentPath=Project Outputs\ExportSTEP\Archim2_2.1a.step
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs\Archim2_2.1a.txt
-DItemRevisionGUID=
-
-[GeneratedDocument23]
 DocumentPath=Project Outputs\Gerber\Archim2_2.1a.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs\Archim2_2.1a_BOM.txt
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Project Outputs\Archim2_2.1a_PickPlace.csv
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Project Outputs\Archim2_2.1a_PickPlace.txt
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs\Archim.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs\Archim.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs\Archim.G1
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs\Archim.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs\Archim.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs\Archim.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs\Archim.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs\Archim.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs\Archim.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs\Archim.GM9
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs\Archim.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs\Archim.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs\Archim.GP3
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs\Archim.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs\Archim.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs\Archim.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs\Archim.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs\Archim.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs\ExportSTEP\Archim.step
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs\Archim.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument47]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Archim_2.1a\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
-[GeneratedDocument48]
-DocumentPath=Project Outputs\Pick Place for Archim.csv
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs\Pick Place for Archim.txt
-DItemRevisionGUID=
-
 [Parameter1]
-Name=projectVersion
-Value=2.1a
+Name=projectDesigner
+Value=UltiMachine
 
 [Parameter2]
-Name=projectTitle
-Value=Archim2
+Name=projectdocumentNumber
+Value=.
 
 [Parameter3]
 Name=projectDocumentRevision
 Value=2.1
 
 [Parameter4]
-Name=projectdocumentNumber
-Value=.
+Name=projectTitle
+Value=Archim2
 
 [Parameter5]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=2.1a
 
 [Configuration1]
 Name=Sources
@@ -485,7 +393,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Archim_2.1a
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
