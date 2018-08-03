@@ -2,44 +2,10 @@
 FileName = Archim_Panel.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bot GND
-      File : Archim_Panel.GP3
+Generating : Top Layer
+      File : Archim_Panel.GTL
 
-    Adding Layer      : Bot GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D89
-    D97
-    D102
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D146
-    D147
-    D148
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Archim_Panel.GBL
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
@@ -51,22 +17,106 @@ Used DCodes :
     D13
     D14
     D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
     D84
+    D85
+    D86
     D87
     D88
     D89
     D90
     D91
+    D92
     D93
     D94
+    D95
     D96
     D97
     D98
     D99
+    D100
     D101
     D102
     D103
+    D104
+    D105
     D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
     D116
     D117
     D118
@@ -82,122 +132,6 @@ Used DCodes :
     D128
     D129
     D130
-    D153
-    D157
-    D158
-    D159
-    D160
-    D161
-    D162
-*************************************************************
-
-*************************************************************
-Generating : Mid1
-      File : Archim_Panel.G1
-
-    Adding Layer      : Mid1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D87
-    D88
-    D89
-    D90
-    D91
-    D93
-    D94
-    D96
-    D97
-    D99
-    D102
-    D105
-    D116
-    D117
-    D118
-    D119
-    D120
-    D122
-    D124
-    D127
-    D128
-    D129
-    D130
-    D153
-    D154
-    D155
-    D156
-    D157
-*************************************************************
-
-*************************************************************
-Generating : Top GND
-      File : Archim_Panel.GP1
-
-    Adding Layer      : Top GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D89
-    D97
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D146
-    D147
-    D148
-*************************************************************
-
-*************************************************************
-Generating : Power Plane
-      File : Archim_Panel.GP2
-
-    Adding Layer      : Power Plane
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D89
-    D102
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-    D141
-    D144
-    D145
-    D147
-    D148
-    D149
-    D150
-    D151
-    D152
 *************************************************************
 
 *************************************************************
@@ -573,10 +507,44 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Archim_Panel.GTL
+Generating : Bot GND
+      File : Archim_Panel.GP3
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bot GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D89
+    D97
+    D102
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Archim_Panel.GBL
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
@@ -588,106 +556,22 @@ Used DCodes :
     D13
     D14
     D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
     D84
-    D85
-    D86
     D87
     D88
     D89
     D90
     D91
-    D92
     D93
     D94
-    D95
     D96
     D97
     D98
     D99
-    D100
     D101
     D102
     D103
-    D104
-    D105
     D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
     D116
     D117
     D118
@@ -703,5 +587,121 @@ Used DCodes :
     D128
     D129
     D130
+    D153
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+*************************************************************
+
+*************************************************************
+Generating : Mid1
+      File : Archim_Panel.G1
+
+    Adding Layer      : Mid1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D87
+    D88
+    D89
+    D90
+    D91
+    D93
+    D94
+    D96
+    D97
+    D99
+    D102
+    D105
+    D116
+    D117
+    D118
+    D119
+    D120
+    D122
+    D124
+    D127
+    D128
+    D129
+    D130
+    D153
+    D154
+    D155
+    D156
+    D157
+*************************************************************
+
+*************************************************************
+Generating : Power Plane
+      File : Archim_Panel.GP2
+
+    Adding Layer      : Power Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D89
+    D102
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D144
+    D145
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+*************************************************************
+
+*************************************************************
+Generating : Top GND
+      File : Archim_Panel.GP1
+
+    Adding Layer      : Top GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D89
+    D97
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
 *************************************************************
 
