@@ -384,24 +384,24 @@ DocumentPath=Project Outputs for Archim_2.1a\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=2.2a
 
 [Parameter2]
-Name=projectdocumentNumber
-Value=.
+Name=projectTitle
+Value=Archim2
 
 [Parameter3]
 Name=projectDocumentRevision
 Value=2.1
 
 [Parameter4]
-Name=projectTitle
-Value=Archim2
+Name=projectdocumentNumber
+Value=.
 
 [Parameter5]
-Name=projectVersion
-Value=2.1a
+Name=projectDesigner
+Value=UltiMachine
 
 [Configuration1]
 Name=Sources
