@@ -4,7 +4,7 @@ Board Specification
 Part Number            ARCHIM2
 Revision               2.2b
 Board size             104.14 x 102.87mm
-Board Thickness        1.524mm (0.06")
+Board Thickness        1.575mm (0.062")
 Board type             Rigid
 Number of layers       6
 P.C.B material         RoHS TG170
