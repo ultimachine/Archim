@@ -1,0 +1,140 @@
+*************************************************************
+FileName = Archim.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\matrix\matrix
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\profile
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_gnd\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_gnd\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\power_plane\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\power_plane\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bot_gnd\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bot_gnd\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\brd_outline\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\brd_outline\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bot_markings\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bot_markings\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_6\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_6\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\dims\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\dims\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_12\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_12\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_8\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_8\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_16\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_16\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\pwr_temp\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\pwr_temp\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_des\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_des\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\dims_1\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\dims_1\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_34\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mechanical_34\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_courtyard\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_courtyard\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\scratch\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\scratch\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mid1\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\mid1\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\odb\steps\pcb\eda\data
+
