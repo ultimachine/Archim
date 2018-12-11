@@ -276,132 +276,56 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GM9
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GP3
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.REP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
 DocumentPath=Project Outputs\ExportSTEP\Archim2_2.1a.step
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs\Gerber\Archim2_2.1a.TXT
+[GeneratedDocument2]
+DocumentPath=Project Outputs\ExportSTEP\Archim2_2.2a.step
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs\Archim2_2.1a_BOM.txt
+[GeneratedDocument3]
+DocumentPath=Project Outputs\Archim2_2.2b_BOM.txt
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs\Archim2_2.1a_PickPlace.csv
+[GeneratedDocument4]
+DocumentPath=Project Outputs\Archim2_2.2b_BOM.xls
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Project Outputs\Archim2_2.1a_PickPlace.txt
+[GeneratedDocument5]
+DocumentPath=Project Outputs\Archim2_2.2b_PickPlace.csv
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument6]
+DocumentPath=Project Outputs\Archim2_2.2b_PickPlace.txt
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Archim2\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Archim_2.1a\Design Rule Check - Archim.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectVersion
-Value=2.2a
+Name=projectDesigner
+Value=UltiMachine
 
 [Parameter2]
-Name=projectTitle
-Value=Archim2
-
-[Parameter3]
-Name=projectDocumentRevision
-Value=2.1
-
-[Parameter4]
 Name=projectdocumentNumber
 Value=.
 
+[Parameter3]
+Name=projectDocumentRevision
+Value=
+
+[Parameter4]
+Name=projectTitle
+Value=Archim2
+
 [Parameter5]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=2.2b
 
 [Configuration1]
 Name=Sources
