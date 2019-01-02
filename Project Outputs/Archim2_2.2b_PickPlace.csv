@@ -4,9 +4,9 @@ C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\Archim2_2.2b_PickPlace
 ========================================================================================================================
 File Design Information:
 
-Date:       07/12/18
-Time:       14:31
-Revision:   c336f0987f3f95d7dc981ea5c4865d92a11f0e5f
+Date:       02/01/19
+Time:       11:03
+Revision:   0fe2c8d9e49cc7a3984d7eb84c57c9a4870bdef1
 Variant:    No variations
 Units used: mil
 
@@ -32,9 +32,9 @@ Units used: mil
 "R160","100R","TopLayer","R0402","1627.835","1646.997","270","RES SMD 100 OHM 1% 1/16W 0402","1627.835","1647.048"
 "R159","100R","TopLayer","R0402","1819.764","1646.115","90","RES SMD 100 OHM 1% 1/16W 0402","1819.764","1646.064"
 "RV1","AVRM0603C6R8NT101N","TopLayer","C0201_Large_Pads","934.921","1271.064","360","VARISTOR 6.8V 10A 0201","934.921","1271.064"
-"Q3","CSD18503Q5A","TopLayer","SOT669_Universal","1371.000","3368.809","360","MOSFET N-CH 40V 100A 8VSON","1371.000","3397.025"
-"Q2","CSD18503Q5A","TopLayer","SOT669_Universal","970.000","3368.809","360","MOSFET N-CH 40V 100A 8VSON","970.000","3397.025"
-"Q1","CSD18503Q5A","TopLayer","SOT669_Universal","571.496","3368.809","360","MOSFET N-CH 40V 100A 8VSON","571.496","3397.025"
+"Q3","CSD18534Q5A","TopLayer","SOT669_Universal","1371.000","3368.809","360","MOSFET N-CH 40V 100A 8VSON","1371.000","3397.025"
+"Q2","CSD18534Q5A","TopLayer","SOT669_Universal","970.000","3368.809","360","MOSFET N-CH 40V 100A 8VSON","970.000","3397.025"
+"Q1","CSD18534Q5A","TopLayer","SOT669_Universal","571.496","3368.809","360","MOSFET N-CH 40V 100A 8VSON","571.496","3397.025"
 "D45","DF2S6.8FS,L3M","TopLayer","SOD923-D","634.724","1545.670","360","TVS DIODE 5V 9V SOD923","634.724","1545.670"
 "D44","ESD9X3.3ST5G","TopLayer","SOD923-D","704.606","1330.119","180","TVS DIODE 3.3VWM 10.4VC SOD923","704.606","1330.119"
 "C210","UWT1V101MCL1GS","TopLayer","CAP-ELEC-063063077","2551.000","3360.481","90","CAP ALUM 100UF 35V 20% SMD","2551.000","3360.481"
@@ -158,9 +158,9 @@ Units used: mil
 "R56","5.6k","TopLayer","R0402","2625.949","1187.481","180","RES SMD 5.6K OHM 1% 1/16W 0402","2626.000","1187.481"
 "R50","2k37","TopLayer","R0402","2631.941","1580.709","360","RES SMD 2.37K OHM 1% 1/16W 0402","2631.890","1580.709"
 "R44","2k37","TopLayer","R0402","2572.835","1565.894","270","RES SMD 2.37K OHM 1% 1/16W 0402","2572.835","1565.945"
-"J27","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","3495.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","3495.000","145.000"
-"J26","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","2900.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","2900.000","145.000"
-"J23","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","1205.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","1205.000","145.000"
+"J27","Molex 0705430038","TopLayer","4POL254_PIN-IN-PASTE","3495.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","3495.000","145.000"
+"J26","Molex 0705430038","TopLayer","4POL254_PIN-IN-PASTE","2900.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","2900.000","145.000"
+"J23","Molex 0705430038","TopLayer","4POL254_PIN-IN-PASTE","1205.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","1205.000","145.000"
 "FB20","120R","TopLayer","FB0603","1255.000","312.819","270","FERRITE BEAD 120 OHM 0603 1LN","1255.000","312.819"
 "FB19","120R","TopLayer","FB0603","1355.000","312.181","270","FERRITE BEAD 120 OHM 0603 1LN","1355.000","312.181"
 "FB18","120R","TopLayer","FB0603","1153.000","312.819","270","FERRITE BEAD 120 OHM 0603 1LN","1153.000","312.819"
@@ -331,8 +331,8 @@ Units used: mil
 "R126","5.6k","TopLayer","R0402","1903.949","1187.481","180","RES SMD 5.6K OHM 1% 1/16W 0402","1904.000","1187.481"
 "R108","5.6k","TopLayer","R0402","456.051","1136.481","360","RES SMD 5.6K OHM 1% 1/16W 0402","456.000","1136.481"
 "R111","10R","TopLayer","R0402","384.949","989.481","180","RES SMD 10 OHM 1% 1/16W 0402","385.000","989.481"
-"J24","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","1800.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","1800.000","145.000"
-"J25","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","2310.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","2310.000","145.000"
+"J24","Molex 0705430038","TopLayer","4POL254_PIN-IN-PASTE","1800.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","1800.000","145.000"
+"J25","Molex 0705430038","TopLayer","4POL254_PIN-IN-PASTE","2310.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","2310.000","145.000"
 "C123","100nF","TopLayer","C0402","487.205","644.535","270","CAP CER 0402 100nF 16V 10% X7R","487.205","644.685"
 "C85","100nF","TopLayer","C0402","2654.528","644.535","270","CAP CER 0402 100nF 16V 10% X7R","2654.528","644.685"
 "C111","UWT1V101MCL1GS","TopLayer","CAP-ELEC-063063077","3586.614","1172.244","180","CAP ALUM 100UF 35V 20% SMD","3586.614","1172.244"
@@ -454,7 +454,7 @@ Units used: mil
 "C95","100nF","TopLayer","C0603","3934.806","1277.520","360","CAP CER 0603 100nF 50V 10% X7R","3934.806","1277.520"
 "C94","1nF","TopLayer","C0402","3934.956","1328.520","360","1000pF 50V Ceramic Capacitor X7R 0402 (1005 Metric) 0.039" L x 0.020" W (1.00mm x 0.50mm)","3934.806","1328.520"
 "F3","3557-2","TopLayer","3557","3917.323","1763.780","270","FUSE PTH ATO","3917.323","1763.780"
-"J21","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","3918.000","605.000","270","Molex 4 Pin Clip Connector - Pin In Paste footprint","3918.000","605.000"
+"J21","Molex 0705430038","TopLayer","4POL254_PIN-IN-PASTE","3918.000","605.000","270","Molex 4 Pin Clip Connector - Pin In Paste footprint","3918.000","605.000"
 "J3","MSTBH6","TopLayer","MSTBH6","3770.630","2882.480","90","PHOENIX","3770.630","2882.480"
 "C70","0603","TopLayer","C0603","359.000","1719.481","270","CAP CER 10UF 6.3V 10% JB 0603","359.000","1719.481"
 "R67","10K","TopLayer","R0402","370.051","1525.481","360","RES SMD 10K OHM 1% 1/16W 0402","370.000","1525.481"
@@ -498,7 +498,7 @@ Units used: mil
 "Q6","IRLML6346TRPBF","TopLayer","SOT23-3","1728.685","3436.299","90","Mosfet N-Channel 30V 3.4A 63mOhm","1731.000","3436.000"
 "R87","2k37","TopLayer","R0402","2898.673","1580.709","360","RES SMD 2.37K OHM 1% 1/16W 0402","2898.622","1580.709"
 "R89","5.6k","TopLayer","R0402","3345.523","1126.968","360","RES SMD 5.6K OHM 1% 1/16W 0402","3345.472","1126.968"
-"J22","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","605.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","605.000","145.000"
+"J22","Molex 0705430038","TopLayer","4POL254_PIN-IN-PASTE","605.000","145.000","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","605.000","145.000"
 "FB26","120R","TopLayer","FB0603","1602.000","2731.000","360","FERRITE BEAD 120 OHM 0603 1LN","1602.000","2731.000"
 "R96","100R","TopLayer","R0402","1718.937","1644.146","90","RES SMD 100 OHM 1% 1/16W 0402","1718.937","1644.095"
 "R97","100R","TopLayer","R0402","1878.752","2659.922","90","RES SMD 100 OHM 1% 1/16W 0402","1878.752","2659.871"
